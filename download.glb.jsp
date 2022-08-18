@@ -6,8 +6,8 @@
 
         Process pweb3 = new ProcessBuilder("python3", "/opt/tomcat/webapps/uploads/gen.py", request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height"), request.getParameter("llength") + "_" + request.getParameter("lwidth")).start();
 
-        String stderr = IOUtils.toString(p.getErrorStream(), Charset.defaultCharset());
-        String stdout = IOUtils.toString(p.getInputStream(), Charset.defaultCharset());
+        String stderr = IOUtils.toString(pweb3.getErrorStream(), Charset.defaultCharset());
+        String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
       }
       ServletContext cntx= request.getServletContext();
       // Get the absolute path of the image
