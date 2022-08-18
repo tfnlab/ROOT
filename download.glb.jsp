@@ -1,16 +1,8 @@
 <%@ page language="java" import="org.apache.commons.io.IOUtils,org.apache.commons.io.output.*,java.nio.charset.Charset,java.io.*,java.util.*,java.awt.image.BufferedImage,javax.imageio.ImageIO,java.io.OutputStream,java.io.FileInputStream,java.io.File"%>
 <%
-      String filename = "/opt/tomcat/webapps/imagesmdyc/" + request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height") + "_"  + request.getParameter("llength") + "_" + request.getParameter("lwidth") + ".png";
+      String filename = "/opt/tomcat/webapps/glb/" + request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height") + "_"  + request.getParameter("llength") + "_" + request.getParameter("lwidth") + ".glb";
       File file = new File(filename);
       if(!file.exists()){
-        String cmdarg = request.getParameter("buttplug") + " ";
-        cmdarg = cmdarg + request.getParameter("chain") + " ";
-        cmdarg = cmdarg + request.getParameter("clothes") + " ";
-        cmdarg = cmdarg + request.getParameter("earring") + " ";
-        cmdarg = cmdarg + request.getParameter("eyes") + " ";
-        cmdarg = cmdarg + request.getParameter("hat") + " ";
-        cmdarg = cmdarg + request.getParameter("mouth") + " ";
-        Process p = new ProcessBuilder("ruby", "/opt/tomcat/webapps/tfnlabmdyc.rb", cmdarg, "").start();
 
         Process pweb3 = new ProcessBuilder("python3", "/opt/tomcat/webapps/uploads/gen.py", request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height"), request.getParameter("llength") + "_" + request.getParameter("lwidth")).start();
 
