@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="applicaton/octet-stream" import="org.apache.commons.io.IOUtils,org.apache.commons.io.output.*,java.nio.charset.Charset,java.io.*,java.util.*,java.awt.image.BufferedImage,javax.imageio.ImageIO,java.io.OutputStream,java.io.FileInputStream,java.io.File"%><%
+<%@ page language="java" contentType="application/x-download" import="org.apache.commons.io.IOUtils,org.apache.commons.io.output.*,java.nio.charset.Charset,java.io.*,java.util.*,java.awt.image.BufferedImage,javax.imageio.ImageIO,java.io.OutputStream,java.io.FileInputStream,java.io.File"%><%
       String filename = "/opt/tomcat/webapps/glb/house" + request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height") + "_"  + request.getParameter("llength") + "_" + request.getParameter("lwidth") + ".glb";
       File file = new File(filename);
       if(!file.exists()){
@@ -15,7 +15,7 @@
       ServletOutputStream out2=null;
       try
       {
-        response.setHeader("content-disposition","attachment; filename=d.glb");
+        response.setHeader("content-disposition","attachment; filename=dz.glb");
         in=new FileInputStream(filename);
         out2=response.getOutputStream();
           while(status != -1 )
