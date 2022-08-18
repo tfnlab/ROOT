@@ -9,17 +9,37 @@
         String stderr = IOUtils.toString(pweb3.getErrorStream(), Charset.defaultCharset());
         String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
       }
-      ServletContext cntx= request.getServletContext();
-      // Get the absolute path of the image
-      // retrieve mimeType dynamically
-      String mime = cntx.getMimeType(filename);
-      if (mime == null) {
-        response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
-        return;
+
+      int status=0;
+      byte b[]=new byte[1024];
+      FileInputStream in=null;
+      ServletOutputStream out2=null;
+      try
+      {
+        response.setHeader("content-disposition","attachment; filename=d.glb");
+        in=new FileInputStream(filename);
+        out2=response.getOutputStream();
+          while(status != -1 )
+          {
+            status=in.read(b);
+            out2.write(b);
+          }
+        out2.flush();
       }
-      response.setContentType(mime);
-      BufferedImage image = ImageIO.read(file);
-      ImageIO.write(image, "GLB", response.getOutputStream());
+      catch(Exception e)
+      {
+        System.out.println(e);
+        response.sendRedirect("downError.jsp");
+      }
+      finally
+      {
+        if(in!=null)
+        in.close();
+        if(out2 !=null)
+        out2.close();
+      }
+
+      // Get the absolute path of the image
 
 //      BufferedImage image = ImageIO.read(file);
 //      ImageIO.write(image, "model/gltf-binary", response.getOutputStream());
