@@ -8,6 +8,7 @@
         String stderr = IOUtils.toString(pweb3.getErrorStream(), Charset.defaultCharset());
         String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
       }
+      response.setHeader("Content-Disposition", "attachment; filename=\"temp.glb\"");
 
       File f = file;
       FileInputStream in = null;
