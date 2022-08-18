@@ -12,15 +12,10 @@
       ServletContext cntx= request.getServletContext();
       // Get the absolute path of the image
       // retrieve mimeType dynamically
-      String mime = cntx.getMimeType(filename);
-      if (mime == null) {
-        response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
-        return;
-      }
-      response.setContentType(mime);
 
       java.io.FileInputStream fileInputStream=new java.io.FileInputStream(file);
-
+      response.setContentType("APPLICATION/OCTET-STREAM");
+      response.setHeader("Content-Disposition","attachment; filename=\"" + filename + "\"");
       int i;
       while ((i=fileInputStream.read()) != -1) {
         out.write(i);
