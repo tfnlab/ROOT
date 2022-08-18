@@ -18,8 +18,17 @@
         return;
       }
       response.setContentType(mime);
-      BufferedImage image = ImageIO.read(file);
-      ImageIO.write(image, "model/gltf-binary", response.getOutputStream());
+
+      java.io.FileInputStream fileInputStream=new java.io.FileInputStream(file);
+
+      int i;
+      while ((i=fileInputStream.read()) != -1) {
+        out.write(i);
+      }
+      fileInputStream.close();
+
+//      BufferedImage image = ImageIO.read(file);
+//      ImageIO.write(image, "model/gltf-binary", response.getOutputStream());
 
  //     response.setContentLength((int)file.length());
 
