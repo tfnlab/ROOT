@@ -10,32 +10,29 @@
       }
 
       int status=0;
-      byte b[]=new byte[1024];
-      FileInputStream in=null;
-      ServletOutputStream out2=null;
+      String temp=null;
+      FileReader in=null;
+      BufferedReader in2=null;
       try
       {
-        response.setHeader("content-disposition","attachment; filename=dz.glb");
-        in=new FileInputStream(filename);
-        out2=response.getOutputStream();
-          while(status != -1 )
-          {
-            status=in.read(b);
-            out2.write(b);
-          }
-        out2.flush();
+      response.setHeader("content-disposition","attachment; filename=ee.glb");
+      in=new FileReader(filename); 
+      in2=new BufferedReader(in);
+      while((temp=in2.readLine()) != null )
+      {
+      out.println(temp);
+      }
+      out.close();
       }
       catch(Exception e)
       {
-        System.out.println(e);
-        response.sendRedirect("downError.jsp");
+      System.out.println(e);
+      response.sendRedirect("downError.jsp");
       }
       finally
       {
-        if(in!=null)
-        in.close();
-        if(out2 !=null)
-        out2.close();
+      if(in2!=null)
+      in2.close();
       }
 
       // Get the absolute path of the image
