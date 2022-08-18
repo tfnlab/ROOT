@@ -9,30 +9,23 @@
         String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
       }
 
-      int status=0;
-      String temp=null;
-      FileReader in=null;
-      BufferedReader in2=null;
-      try
-      {
-      response.setHeader("content-disposition","attachment; filename=ee.glb");
-      in=new FileReader(filename); 
-      in2=new BufferedReader(in);
-      while((temp=in2.readLine()) != null )
-      {
-      out.println(temp);
+      File f = file;
+      FileInputStream in = null;
+      int bytesRead = 0;
+      byte[] b = new byte[1024];
+
+      try{
+      in = new FileInputStream(f);
+
+      do{
+      bytesRead = in.read(b, 0, b.length);
+      response.getOutputStream().write(b, 0, bytesRead);
+      }while(bytesRead == b.length);
+
+      response.getOutputStream().flush();
       }
-      out.close();
-      }
-      catch(Exception e)
-      {
-      System.out.println(e);
-      response.sendRedirect("downError.jsp");
-      }
-      finally
-      {
-      if(in2!=null)
-      in2.close();
+      finally{
+      if(in != null) in.close();
       }
 
       // Get the absolute path of the image
