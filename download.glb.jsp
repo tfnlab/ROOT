@@ -12,15 +12,14 @@
       ServletContext cntx= request.getServletContext();
       // Get the absolute path of the image
       // retrieve mimeType dynamically
-
-      java.io.FileInputStream fileInputStream=new java.io.FileInputStream(file);
-      response.setContentType("APPLICATION/OCTET-STREAM");
-      response.setHeader("Content-Disposition","attachment; filename=\"" + filename + "\"");
-      int i;
-      while ((i=fileInputStream.read()) != -1) {
-        out.write(i);
+      String mime = cntx.getMimeType(filename);
+      if (mime == null) {
+        response.setStatus(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
+        return;
       }
-      fileInputStream.close();
+      response.setContentType(mime);
+      BufferedImage image = ImageIO.read(file);
+      ImageIO.write(image, "GLB", response.getOutputStream());
 
 //      BufferedImage image = ImageIO.read(file);
 //      ImageIO.write(image, "model/gltf-binary", response.getOutputStream());
