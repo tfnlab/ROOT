@@ -1,0 +1,5641 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC3",
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "normalized": false,
+      "count": 36,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC3",
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 9,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC3",
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 13,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC3",
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ]
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 15,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "normalized": false,
+      "count": 24,
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "pygltflib@v1.15.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 288,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 576,
+      "byteLength": 192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 768,
+      "byteLength": 72
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 840,
+      "byteLength": 1315
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2156,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2444,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2732,
+      "byteLength": 192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2924,
+      "byteLength": 1315
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4240,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4528,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4816,
+      "byteLength": 192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5008,
+      "byteLength": 1298
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6308,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6596,
+      "byteLength": 288
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6884,
+      "byteLength": 192
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7076,
+      "byteLength": 1775
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "data:application/octet-stream;base64,AACAPwAAgD8AAIC/AACAPwAAgD8AAIC/AACAPwAAgD8AAIC/AACAPwAAgL8AAIC/AACAPwAAgL8AAIC/AACAPwAAgL8AAIC/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgL8AAIA/AACAPwAAgL8AAIA/AACAPwAAgL8AAIA/AACAvwAAgD8AAIC/AACAvwAAgD8AAIC/AACAvwAAgD8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgL8AAIC/AACAvwAAgD8AAIA/AACAvwAAgD8AAIA/AACAvwAAgD8AAIA/AACAvwAAgL8AAIA/AACAvwAAgL8AAIA/AACAvwAAgL8AAIA/AAAAAAAAAAAAAIC/AAAAAAAAgD8AAACAAACAPwAAAAAAAACAAAAAAAAAgL8AAACAAAAAAAAAAAAAAIC/AACAPwAAAAAAAACAAAAAAAAAAAAAAIA/AAAAAAAAgD8AAACAAACAPwAAAAAAAACAAAAAAAAAgL8AAACAAAAAAAAAAAAAAIA/AACAPwAAAAAAAACAAACAvwAAAAAAAACAAAAAAAAAAAAAAIC/AAAAAAAAgD8AAACAAACAvwAAAAAAAACAAAAAAAAAgL8AAACAAAAAAAAAAAAAAIC/AACAvwAAAAAAAACAAAAAAAAAAAAAAIA/AAAAAAAAgD8AAACAAACAvwAAAAAAAACAAAAAAAAAgL8AAACAAAAAAAAAAAAAAIA/AAAgPwAAAD8AACA/AAAAPwAAID8AAAA/AADAPgAAAD8AAMA+AAAAPwAAwD4AAAA/AAAgPwAAgD4AACA/AACAPgAAID8AAIA+AADAPgAAgD4AAMA+AACAPgAAwD4AAIA+AAAgPwAAQD8AACA/AABAPwAAYD8AAAA/AADAPgAAQD8AAAA+AAAAPwAAwD4AAEA/AAAgPwAAgD8AACA/AAAAAAAAYD8AAIA+AADAPgAAgD8AAAA+AACAPgAAwD4AAAAAAQAOABQAAQAUAAcACgAGABMACgATABcAFQASAAwAFQAMAA8AEAADAAkAEAAJABYABQACAAgABQAIAAsAEQANAAAAEQAAAAQAiVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEgmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQnPz4KPHg6eG1wbWV0YSB4bWxuczp4PSdhZG9iZTpuczptZXRhLyc+CjxyZGY6UkRGIHhtbG5zOnJkZj0naHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyc+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczpBdHRyaWI9J2h0dHA6Ly9ucy5hdHRyaWJ1dGlvbi5jb20vYWRzLzEuMC8nPgogIDxBdHRyaWI6QWRzPgogICA8cmRmOlNlcT4KICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0nUmVzb3VyY2UnPgogICAgIDxBdHRyaWI6Q3JlYXRlZD4yMDIyLTA4LTE4PC9BdHRyaWI6Q3JlYXRlZD4KICAgICA8QXR0cmliOkV4dElkPjlmNzg5ZDQyLTM4NjctNGU1My1hNjU1LTU2ODk3NmU0ZTU5ODwvQXR0cmliOkV4dElkPgogICAgIDxBdHRyaWI6RmJJZD41MjUyNjU5MTQxNzk1ODA8L0F0dHJpYjpGYklkPgogICAgIDxBdHRyaWI6VG91Y2hUeXBlPjI8L0F0dHJpYjpUb3VjaFR5cGU+CiAgICA8L3JkZjpsaT4KICAgPC9yZGY6U2VxPgogIDwvQXR0cmliOkFkcz4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PScnCiAgeG1sbnM6ZGM9J2h0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvJz4KICA8ZGM6dGl0bGU+CiAgIDxyZGY6QWx0PgogICAgPHJkZjpsaSB4bWw6bGFuZz0neC1kZWZhdWx0Jz5Db3B5IG9mIFVudGl0bGVkICgzNTAgw5cgMzUwIHB4KTwvcmRmOmxpPgogICA8L3JkZjpBbHQ+CiAgPC9kYzp0aXRsZT4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PScnCiAgeG1sbnM6cGRmPSdodHRwOi8vbnMuYWRvYmUuY29t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U3pOVGN6a2M5ZCc/Pgo8eDp4bXBtZXRhIHhtbG5zOng9J2Fkb2JlOm5zOm1ldGEvJz4KPHJkZjpSREYgeG1sbnM6cmRmPSdodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjJz4KCiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0nJwogIHhtbG5zOkF0dHJpYj0naHR0cDovL25zLmF0dHJpYnV0aW9uLmNvbS9hZHMvMS4wLyc+CiAgPEF0dHJpYjpBZHM+CiAgIDxyZGY6U2VxPgogICAgPHJkZjpsaSByZGY6cGFyc2VUeXBlPSdSZXNvdXJjZSc+CiAgICAgPEF0dHJpYjpDcmVhdGVkPjIwMjItMDgtMTg8L0F0dHJpYjpDcmVhdGVkPgogICAgIDxBdHRyaWI6RXh0SWQ+OGE1M2Y5MGMtZWEzYi00MGIwLWE2ZmYtOGYyMGYwMzZkN2IyPC9BdHRyaWI6RXh0SWQ+CiAgICAgPEF0dHJpYjpGYklkPjUyNTI2NTkxNDE3OTU4MDwvQXR0cmliOkZiSWQ+CiAgICAgPEF0dHJpYjpUb3VjaFR5cGU+MjwvQXR0cmliOlRvdWNoVHlwZT4KICAgIDwvcmRmOmxpPgogICA8L3JkZjpTZXE+CiAgPC9BdHRyaWI6QWRzPgogPC9yZGY6RGVzY3JpcHRpb24+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczpkYz0naHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8nPgogIDxkYzp0aXRsZT4KICAgPHJkZjpBbHQ+CiAgICA8cmRmOmxpIHhtbDpsYW5nPSd4LWRlZmF1bHQnPkNvcHkgb2YgVW50aXRsZWQgKDM1MCDDlyAzNTAgcHgpPC9yZGY6bGk+CiAgIDwvcmRmOkFsdD4KICA8L2RjOnRpdGxlPgogPC9yZGY6RGVzY3JpcHRpb24+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczpwZGY9J2h0dHA6Ly9ucy5hZG9iZS5jb20vcGRmLzEuMy8nPgogIDxwZGY6QXV0aG9yPkFybWVuIE1lcmlreWFuPC9wZGY6QXV0aG9yPgogPC9yZGY6RGVzY3JpcHRpb24+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9JycKICB4bWxuczp4bXA9J2h0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8nPgogIDx4bXA6Q3JlYXRvclRvb2w+Q2FudmE8L3htcDpDcmVhdG9yVG9vbD4KIDwvcmRmOkRlc2NyaXB0aW9uPgo8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSdyJz8+d9UXBgAAAhNJREFUWIXtlklrFEEUgL/X28w4C2McgxEkXuIGwYvLwT/nv8rdq4JGD4oKEZQkbcBkts70THc9D92zxItQpUkg/UFDFVVNf/2qXr0SXj5XLjHeRQv8jUrQlUrQlasgWJ5SqmW7fJSVvj0OgnMRARSR5YgIIPMxNwL7V6WImgAqaMbidzUTCLXoazH1/AVVi1ApeJ5h627G5o1TNnspP4c1dt62maYCviznWmC3xEopp/gBPHvsU68pr7822HnXIR5EbN/3qTU9MLqYa4NdBKVct8xw/c4ae0cz4m8K9YjjU+VHbGitKd1bLeK9QfFH5xrB+f6LQpLGOvFhijRComaLsNUkaEeMTjL69JB6rYiiJW57MIxIpj5B8yFZus+0vw8SgBcS9p4ylRyV2Hp53QRFYJbiJ3W8bML65Anj2S65TGjLNsmoT+IbyOWCslg8MBPqAyVII0bZB7qze3jGY1g7JE+PafVvM5wNi7mWWGaxlkdHxHjyns6oTW+wQWI+cxLscm2cs9F/RDL9BGpY7FkLLLO4qB6ogBi+N19x02zx4OAFaTDmVyfmoPOGXEagAS5Z7JAksixn4nPU/chR5wsg4E/BhGCC5ZFkWVEcSt0fknmdxcUgaxTt1XpsmSj2u1dY1OGib1YGy7ajHLhG8MzH5Wz7H3EVLqz/l0rQlUrQlUrQlUrQlUrQlUrQlUrQlUsv+Bs0KMuXhXK0HgAAAABJRU5ErkJgggA=",
+      "byteLength": 8852
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/png",
+      "bufferView": 4,
+      "name": "Copy_of_Untitled_350__350_px-26"
+    },
+    {
+      "mimeType": "image/png",
+      "bufferView": 8,
+      "name": "Copy_of_Untitled_350__350_px-31"
+    },
+    {
+      "mimeType": "image/png",
+      "bufferView": 12,
+      "name": "Copy_of_Untitled-10"
+    },
+    {
+      "mimeType": "image/png",
+      "bufferView": 16,
+      "name": "Copy_of_Untitled_350__350_px-29"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.4000000059604645,
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "alphaMode": "OPAQUE",
+      "alphaCutoff": 0.5,
+      "doubleSided": true,
+      "name": "Material.001"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.4000000059604645,
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "alphaMode": "OPAQUE",
+      "alphaCutoff": 0.5,
+      "doubleSided": true,
+      "name": "Material-2"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.4000000059604645,
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "alphaMode": "OPAQUE",
+      "alphaCutoff": 0.5,
+      "doubleSided": true,
+      "name": "roof"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.4000000059604645,
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "alphaMode": "OPAQUE",
+      "alphaCutoff": 0.5,
+      "doubleSided": true,
+      "name": "Material.002"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 1
+        }
+      ],
+      "name": "Cube.002"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 7,
+            "NORMAL": 8,
+            "TEXCOORD_0": 9
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 2
+        }
+      ],
+      "name": "Cube.003"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TEXCOORD_0": 12
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 3
+        }
+      ],
+      "name": "Cube.004"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "Cube"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "Cube"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "Cube"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "translation": [
+        1,
+        3,
+        -6.565321445465088
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 1,
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        0,
+        3.2160561084747314,
+        0
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube.002"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        0,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube.003"
+    },
+    {
+      "rotation": [
+        0.16907575726509094,
+        0.7558803558349609,
+        -0.27217137813568115,
+        0.570947527885437
+      ],
+      "translation": [
+        4.076245307922363,
+        5.903861999511719,
+        -1.0054539442062378
+      ],
+      "name": "Light"
+    },
+    {
+      "rotation": [
+        0.483536034822464,
+        0.33687159419059753,
+        -0.20870360732078552,
+        0.7804827094078064
+      ],
+      "translation": [
+        7.358891487121582,
+        4.958309173583984,
+        6.925790786743164
+      ],
+      "name": "Camera"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        2,
+        0.5,
+        2
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        8,
+        0.5,
+        2
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        14,
+        0.5,
+        2
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        20,
+        0.5,
+        2
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        26,
+        0.5,
+        2
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        2,
+        0.5,
+        8
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        8,
+        0.5,
+        8
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        14,
+        0.5,
+        8
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        20,
+        0.5,
+        8
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        26,
+        0.5,
+        8
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        2,
+        0.5,
+        14
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        8,
+        0.5,
+        14
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        14,
+        0.5,
+        14
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        20,
+        0.5,
+        14
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        26,
+        0.5,
+        14
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        2,
+        0.5,
+        20
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        8,
+        0.5,
+        20
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        14,
+        0.5,
+        20
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        20,
+        0.5,
+        20
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        26,
+        0.5,
+        20
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        2,
+        0.5,
+        26
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        8,
+        0.5,
+        26
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        14,
+        0.5,
+        26
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        20,
+        0.5,
+        26
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        26,
+        0.5,
+        26
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        2,
+        0.5,
+        32
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        8,
+        0.5,
+        32
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        14,
+        0.5,
+        32
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        20,
+        0.5,
+        32
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        26,
+        0.5,
+        32
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        2,
+        0.5,
+        38
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        8,
+        0.5,
+        38
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        14,
+        0.5,
+        38
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        20,
+        0.5,
+        38
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        26,
+        0.5,
+        38
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        2,
+        0.5,
+        44
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        8,
+        0.5,
+        44
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        14,
+        0.5,
+        44
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        20,
+        0.5,
+        44
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        26,
+        0.5,
+        44
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        2,
+        0.5,
+        50
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        8,
+        0.5,
+        50
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        14,
+        0.5,
+        50
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        20,
+        0.5,
+        50
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        26,
+        0.5,
+        50
+      ],
+      "scale": [
+        3,
+        0.10000000149011612,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        2,
+        30,
+        2
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        8,
+        30,
+        2
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        14,
+        30,
+        2
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        20,
+        30,
+        2
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        26,
+        30,
+        2
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        2,
+        30,
+        8
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        8,
+        30,
+        8
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        14,
+        30,
+        8
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        20,
+        30,
+        8
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        26,
+        30,
+        8
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        2,
+        30,
+        14
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        8,
+        30,
+        14
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        14,
+        30,
+        14
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        20,
+        30,
+        14
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        26,
+        30,
+        14
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        2,
+        30,
+        20
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        8,
+        30,
+        20
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        14,
+        30,
+        20
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        20,
+        30,
+        20
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        26,
+        30,
+        20
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        2,
+        30,
+        26
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        8,
+        30,
+        26
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        14,
+        30,
+        26
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        20,
+        30,
+        26
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        26,
+        30,
+        26
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        2,
+        30,
+        32
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        8,
+        30,
+        32
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        14,
+        30,
+        32
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        20,
+        30,
+        32
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        26,
+        30,
+        32
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        2,
+        30,
+        38
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        8,
+        30,
+        38
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        14,
+        30,
+        38
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        20,
+        30,
+        38
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        26,
+        30,
+        38
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        2,
+        30,
+        44
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        8,
+        30,
+        44
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        14,
+        30,
+        44
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        20,
+        30,
+        44
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        26,
+        30,
+        44
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        2,
+        30,
+        50
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        8,
+        30,
+        50
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        14,
+        30,
+        50
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        20,
+        30,
+        50
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 2,
+      "translation": [
+        26,
+        30,
+        50
+      ],
+      "scale": [
+        3,
+        1,
+        3
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        2,
+        2,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        2,
+        2,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        8,
+        2,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        8,
+        2,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        14,
+        2,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        14,
+        2,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        20,
+        2,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        20,
+        2,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        26,
+        2,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        26,
+        2,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        2,
+        2
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        2,
+        2
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        2,
+        8
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        2,
+        8
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        2,
+        14
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        2,
+        14
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        2,
+        20
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        2,
+        20
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        2,
+        26
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        2,
+        32
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        2,
+        38
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        2,
+        44
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        2,
+        44
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        2,
+        50
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        2,
+        50
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        2,
+        8,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        2,
+        8,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        8,
+        8,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        8,
+        8,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        14,
+        8,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        14,
+        8,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        20,
+        8,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        20,
+        8,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        26,
+        8,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        26,
+        8,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        8,
+        2
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        8,
+        2
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        8,
+        8
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        8,
+        8
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        8,
+        14
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        8,
+        14
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        8,
+        20
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        8,
+        20
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        8,
+        26
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        8,
+        32
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        8,
+        38
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        8,
+        44
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        8,
+        44
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        8,
+        50
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        8,
+        50
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        2,
+        14,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        2,
+        14,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        8,
+        14,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        8,
+        14,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        14,
+        14,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        14,
+        14,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        20,
+        14,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        20,
+        14,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        26,
+        14,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        14,
+        2
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        14,
+        2
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        14,
+        8
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        14,
+        8
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        14,
+        14
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        14,
+        14
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        14,
+        20
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        14,
+        20
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        14,
+        44
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        14,
+        44
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        14,
+        50
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        14,
+        50
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        2,
+        20,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        2,
+        20,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        8,
+        20,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        8,
+        20,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        14,
+        20,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        14,
+        20,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        20,
+        20,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        20,
+        20,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        20,
+        2
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        20,
+        2
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        20,
+        8
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        20,
+        8
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        20,
+        14
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        20,
+        14
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        20,
+        20
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        20,
+        20
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        20,
+        44
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        20,
+        44
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        20,
+        50
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        20,
+        50
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        2,
+        26,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        2,
+        26,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        8,
+        26,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        8,
+        26,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        14,
+        26,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        14,
+        26,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        20,
+        26,
+        0
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "translation": [
+        20,
+        26,
+        52
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        26,
+        2
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        26,
+        2
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        26,
+        8
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        26,
+        8
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        26,
+        14
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        26,
+        14
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        26,
+        20
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        26,
+        20
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        26,
+        44
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        26,
+        44
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0,
+        26,
+        50
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        28,
+        26,
+        50
+      ],
+      "scale": [
+        1,
+        3,
+        3
+      ],
+      "name": "Cube.001"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -50,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -30,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -10,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        30,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        50,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        70,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        90,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        110,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        130,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        150,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        170,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        190,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        210,
+        -0.1,
+        -50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -50,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -30,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -10,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        30,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        50,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        70,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        90,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        110,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        130,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        150,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        170,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        190,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        210,
+        -0.1,
+        -30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -50,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -30,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -10,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        30,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        50,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        70,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        90,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        110,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        130,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        150,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        170,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        190,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        210,
+        -0.1,
+        -10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -50,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -30,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -10,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        30,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        50,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        70,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        90,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        110,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        130,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        150,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        170,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        190,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        210,
+        -0.1,
+        10
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -50,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -30,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -10,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        30,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        50,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        70,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        90,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        110,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        130,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        150,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        170,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        190,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        210,
+        -0.1,
+        30
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -50,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -30,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -10,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        30,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        50,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        70,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        90,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        110,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        130,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        150,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        170,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        190,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        210,
+        -0.1,
+        50
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -50,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -30,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -10,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        30,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        50,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        70,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        90,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        110,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        130,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        150,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        170,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        190,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        210,
+        -0.1,
+        70
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -50,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -30,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -10,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        30,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        50,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        70,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        90,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        110,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        130,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        150,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        170,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        190,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        210,
+        -0.1,
+        90
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -50,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -30,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -10,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        30,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        50,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        70,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        90,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        110,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        130,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        150,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        170,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        190,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        210,
+        -0.1,
+        110
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -50,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -30,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        -10,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        10,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        30,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        50,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        70,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        90,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        110,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        130,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        150,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        170,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        190,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    },
+    {
+      "mesh": 3,
+      "translation": [
+        210,
+        -0.1,
+        130
+      ],
+      "scale": [
+        10,
+        0.009999999776482582,
+        10
+      ],
+      "name": "Cube"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
