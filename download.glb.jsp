@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="model/gltf.binary" import="org.apache.commons.io.IOUtils,org.apache.commons.io.output.*,java.nio.charset.Charset,java.io.*,java.util.*,java.awt.image.BufferedImage,javax.imageio.ImageIO,java.io.OutputStream,java.io.FileInputStream,java.io.File"%><%
+<%@ page language="java" import="org.apache.commons.io.IOUtils,org.apache.commons.io.output.*,java.nio.charset.Charset,java.io.*,java.util.*,java.awt.image.BufferedImage,javax.imageio.ImageIO,java.io.OutputStream,java.io.FileInputStream,java.io.File"%><%
       String filename = "/opt/tomcat/webapps/glb/house" + request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height") + "_"  + request.getParameter("llength") + "_" + request.getParameter("lwidth") + ".glb";
       File file = new File(filename);
       if(!file.exists()){
@@ -8,7 +8,9 @@
         String stderr = IOUtils.toString(pweb3.getErrorStream(), Charset.defaultCharset());
         String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
       }
-      response.setHeader("Content-Disposition", "attachment; filename=\"temp.glb\"");
+
+      resp.setContentType("model/gltf-binary");
+      resp.setHeader("Content-disposition", "attachment; filename=studiocity.glb");
 
       File f = file;
       FileInputStream in = null;
