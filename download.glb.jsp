@@ -2,13 +2,13 @@
       String filename = "/var/lib/tomcat9/webapps/glb/house" + request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height") + "_"  + request.getParameter("llength") + "_" + request.getParameter("lwidth") + ".gltf";
       File file = new File(filename);
       if(!file.exists()){
-        filename = "/var/lib/tomcat9/webapps/glb/house0_0_0_0_0.gltf";
-        file = new File(filename);
+//        filename = "/var/lib/tomcat9/webapps/glb/house0_0_0_0_0.gltf";
+//        file = new File(filename);
 
-        //Process pweb3 = new ProcessBuilder("python3", "/opt/tomcat/webapps/uploads/gen.py", request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height"), request.getParameter("llength") + "_" + request.getParameter("lwidth")).start();
+        Process pweb3 = new ProcessBuilder("python3", "/opt/tomcat/webapps/uploads/gen.py", request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height"), request.getParameter("llength") + "_" + request.getParameter("lwidth")).start();
 
-        //String stderr = IOUtils.toString(pweb3.getErrorStream(), Charset.defaultCharset());
-        //String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
+        String stderr = IOUtils.toString(pweb3.getErrorStream(), Charset.defaultCharset());
+        String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
 
       }
 
