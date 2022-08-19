@@ -5,7 +5,7 @@
 //        filename = "/var/lib/tomcat9/webapps/glb/house0_0_0_0_0.gltf";
 //        file = new File(filename);
 
-        Process pweb3 = new ProcessBuilder("python3", "/opt/tomcat/webapps/uploads/gen.py", request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height"), request.getParameter("llength") + "_" + request.getParameter("lwidth")).start();
+        Process pweb3 = new ProcessBuilder("python3", "/var/lib/tomcat9/webapps/uploads/gen.py", request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height"), request.getParameter("llength") + "_" + request.getParameter("lwidth")).start();
 
         String stderr = IOUtils.toString(pweb3.getErrorStream(), Charset.defaultCharset());
         String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
