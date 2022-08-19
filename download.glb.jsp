@@ -9,8 +9,8 @@
         String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
       }
 
-      resp.setContentType("model/gltf-binary");
-      resp.setHeader("Content-disposition", "attachment; filename=studiocity.glb");
+      response.setContentType("model/gltf-binary");
+      response.setHeader("Content-disposition", "attachment; filename=studiocity.glb");
 
       File f = file;
       FileInputStream in = null;
