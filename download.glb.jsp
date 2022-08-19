@@ -9,7 +9,7 @@
 
         String stderr = IOUtils.toString(pweb3.getErrorStream(), Charset.defaultCharset());
         String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
-
+        %><%=stderr%><%
       }
 
       response.setContentType("model/gltf+json");
