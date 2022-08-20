@@ -1,16 +1,15 @@
-<%@ page language="java" import="java.lang.Thread,org.apache.commons.io.IOUtils,org.apache.commons.io.output.*,java.nio.charset.Charset,java.io.*,java.util.*,java.awt.image.BufferedImage,javax.imageio.ImageIO,java.io.OutputStream,java.io.FileInputStream,java.io.File"%><%
+<%@ page language="java" import="org.apache.commons.io.IOUtils,org.apache.commons.io.output.*,java.nio.charset.Charset,java.io.*,java.util.*,java.awt.image.BufferedImage,javax.imageio.ImageIO,java.io.OutputStream,java.io.FileInputStream,java.io.File"%><%
       String filename = "/var/lib/tomcat9/webapps/glb/house" + request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height") + "_"  + request.getParameter("llength") + "_" + request.getParameter("lwidth") + ".gltf";
       File file = new File(filename);
       if(!file.exists()){
 //        filename = "/var/lib/tomcat9/webapps/glb/house0_0_0_0_0.gltf";
 //        file = new File(filename);
-        Thread newThread = new Thread(() -> {
-              Process pweb3 = new ProcessBuilder("python3", "/var/lib/tomcat9/webapps/uploads/gen.py", request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height"), request.getParameter("llength") + "_" + request.getParameter("lwidth")).start();
 
-              String stderr = IOUtils.toString(pweb3.getErrorStream(), Charset.defaultCharset());
-              String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
-        });
-        newThread.start();
+        Process pweb3 = new ProcessBuilder("python3", "/var/lib/tomcat9/webapps/uploads/gen.py", request.getParameter("length") + "_"  + request.getParameter("width") + "_"  + request.getParameter("height"), request.getParameter("llength") + "_" + request.getParameter("lwidth")).start();
+
+        String stderr = IOUtils.toString(pweb3.getErrorStream(), Charset.defaultCharset());
+        String stdout = IOUtils.toString(pweb3.getInputStream(), Charset.defaultCharset());
+        %><%=stderr%><%
       }
 
       response.setContentType("model/gltf+json");
