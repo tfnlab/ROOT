@@ -26,28 +26,29 @@
                 0.4999999701976776
             ],
             "scale" : [
-                1.7000000476837158,
-                2,
-                3.5
-            ],
-            "translation" : [
-                9.334783554077148,
-                0,
-                0
+                3,
+                3,
+                3
             ]
         },
         {
             "mesh" : 1,
             "name" : "Cube",
-            "scale" : [
-                1,
-                0.009999999776482582,
-                1
-            ],
-            "translation" : [
+            "rotation" : [
                 1,
                 0,
-                -1
+                0,
+                0
+            ],
+            "scale" : [
+                3,
+                0.009999999776482582,
+                3
+            ],
+            "translation" : [
+                3,
+                0,
+                -3
             ]
         },
         {
@@ -104,7 +105,7 @@
         },
         {
             "doubleSided" : true,
-            "name" : "Material.003",
+            "name" : "Material.001",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 2
@@ -139,7 +140,7 @@
             ]
         },
         {
-            "name" : "Cube",
+            "name" : "Cube.001",
             "primitives" : [
                 {
                     "attributes" : {
