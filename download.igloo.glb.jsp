@@ -2,7 +2,7 @@
 
       //https://play.tfnlab.com/download.igloo.glb.jsp?d=17&llength=19&lwidth=26&material=1&fh=1&loft=2&balcony=1
 
-      String filename = "/var/lib/tomcat9/webapps/glb/igloo" + request.getParameter("d") + "_"  + request.getParameter("llength") + "_" + request.getParameter("lwidth") + ".gltf";
+      String filename = "/var/lib/tomcat9/webapps/glb/igloo" + request.getParameter("d") + "_"  + request.getParameter("material") + "_"  + request.getParameter("fh") + "_"  + request.getParameter("loft") + "_"  + request.getParameter("balcony") + "_"  + request.getParameter("llength") + "_" + request.getParameter("lwidth") + ".gltf";
       File file = new File(filename);
       if(!file.exists()){
 //        filename = "/var/lib/tomcat9/webapps/glb/house0_0_0_0_0.gltf";
