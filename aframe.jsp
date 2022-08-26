@@ -18,6 +18,21 @@
         }
       });
     </script>
+    <script>
+
+            function downloadImage()
+            {
+                var canvas = document.getElementById("cityModel");
+                var image = canvas.toDataURL();
+
+                var aLink = document.createElement('a');
+                var evt = document.createEvent("HTMLEvents");
+                evt.initEvent("click");
+                aLink.download = 'image.png';
+                aLink.href = image;
+                aLink.dispatchEvent(evt);
+            }
+    </script>
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 </head>
 <body>
@@ -27,5 +42,7 @@
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials></a-entity>
     </a-scene>
+    <div><button onclick="downloadImage()">Download</button></div>
+    <image id="theimage"></image>
 </body>
 </html>
