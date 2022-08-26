@@ -16,20 +16,15 @@
               }
             });
           });
+          var el = this.el;
+          setTimeout(function () {
+             debugger;
+             el.components.screenshot.capture("perspective")
+          }, 1000);
+
         }
       });
     </script>
-  <script>
-    AFRAME.registerComponent('capture-screenshot', {
-      init: function () {
-        var el = this.el;
-        setTimeout(function () {
-           debugger;
-           el.components.screenshot.capture("perspective")
-        }, 1000);
-      }
-    });
-  </script>
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 </head>
 <body >
