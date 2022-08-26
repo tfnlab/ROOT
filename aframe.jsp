@@ -1,6 +1,7 @@
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script>
       AFRAME.registerComponent('modify-materials', {
         init: function () {
@@ -22,13 +23,24 @@
 
             function downloadImage()
             {
-                alert("Hello! I am an alert box!!");
-                document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular');
-                var link = document.createElement('a');
-                link.download = 'filename.png';
-                link.href = document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular').toDataURL()
-                link.click();
-                alert("Hello! I am an alert box!! 2");
+                alert("Hello! I am an alert box");
+                let canvasImage = document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular').toDataURL('image/png');
+
+                // this can be used to download any image from webpage to local disk
+                let xhr = new XMLHttpRequest();
+                xhr.responseType = 'blob';
+                xhr.onload = function () {
+                    let a = document.createElement('a');
+                    a.href = window.URL.createObjectURL(xhr.response);
+                    a.download = 'image_name.png';
+                    a.style.display = 'none';
+                    document.body.appendChild(a);
+                    a.click();
+                    a.remove();
+                  };
+                  xhr.open('GET', canvasImage); // This is to download the canvas Image
+                  xhr.send();
+
             }
     </script>
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
