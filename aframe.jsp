@@ -24,7 +24,7 @@
             function downloadImage()
             {
                 alert("Hello! I am an alert box");
-                let canvasImage = document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular').toDataURL('image/png');
+                let canvasImage = document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular');
 
                 alert("Hello! I am an alert box 3");
 
