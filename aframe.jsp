@@ -2,6 +2,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
     <script>
     AFRAME.registerComponent('capture-screenshot', {
       init: function () {
@@ -9,11 +10,10 @@
         setTimeout(function () {
            debugger;
            el.components.screenshot.capture("perspective")
-        }, 1000);
+        }, 10000);
       }
     });
     </script>
-    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 </head>
 <body >
     <a-scene background="color: #ECECEC" capture-screenshot >
