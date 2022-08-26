@@ -26,6 +26,8 @@
                 alert("Hello! I am an alert box");
                 let canvasImage = document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular').toDataURL('image/png');
 
+                alert("Hello! I am an alert box 3");
+
                 // this can be used to download any image from webpage to local disk
                 let xhr = new XMLHttpRequest();
                 xhr.responseType = 'blob';
