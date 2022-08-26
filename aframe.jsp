@@ -19,42 +19,25 @@
         }
       });
     </script>
-    <script>
-
-            function downloadImage()
-            {
-                alert("Hello! I am an alert box");
-                let canvasImage = document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular');
-
-                alert("Hello! I am an alert box 3");
-
-                // this can be used to download any image from webpage to local disk
-                let xhr = new XMLHttpRequest();
-                xhr.responseType = 'blob';
-                xhr.onload = function () {
-                    alert("Hello! I am an alert box 2");
-                    let a = document.createElement('a');
-                    a.href = window.URL.createObjectURL(xhr.response);
-                    a.download = 'image_name.png';
-                    a.style.display = 'none';
-                    document.body.appendChild(a);
-                    a.click();
-                    a.remove();
-                  };
-                  xhr.open('GET', canvasImage); // This is to download the canvas Image
-                  xhr.send();
-
-            }
-    </script>
+  <script>
+    AFRAME.registerComponent('capture-screenshot', {
+      init: function () {
+        var el = this.el;
+        setTimeout(function () {
+           debugger;
+           el.components.screenshot.capture("perspective")
+        }, 1000);
+      }
+    });
+  </script>
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 </head>
-<body onload="downloadImage()">
+<body >
     <a-scene background="color: #ECECEC">
       <a-assets>
         <a-asset-item id="cityModel" src="https://cdn.aframe.io/test-models/models/glTF-2.0/virtualcity/VC.gltf"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials></a-entity>    <!-- "button" -->
-      <a-entity id="refresh-button" geometry="primitive: box" material="color: red" position="0 0 -2" onclick="downloadImage()"></a>
     </a-scene>
 </body>
 </html>
