@@ -22,20 +22,12 @@
 
             function downloadImage()
             {
-                var canvas = document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular');
-                var image = canvas.toDataURL();
-
-                var aLink = document.createElement('a');
-                var evt = document.createEvent("HTMLEvents");
-                evt.initEvent("click");
-                aLink.download = 'image.png';
-                aLink.href = image;
-                aLink.dispatchEvent(evt);
+                document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular');
             }
     </script>
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 </head>
-<body>
+<body onload="downloadImage()">
     <a-scene background="color: #ECECEC">
       <a-assets>
         <a-asset-item id="cityModel" src="https://cdn.aframe.io/test-models/models/glTF-2.0/virtualcity/VC.gltf"></a-asset-item>
