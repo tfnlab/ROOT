@@ -22,7 +22,13 @@
 
             function downloadImage()
             {
+                alert("Hello! I am an alert box!!");
                 document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular');
+                var link = document.createElement('a');
+                link.download = 'filename.png';
+                link.href = document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular').toDataURL()
+                link.click();
+                alert("Hello! I am an alert box!! 2");
             }
     </script>
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
