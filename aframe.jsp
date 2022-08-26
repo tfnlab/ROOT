@@ -30,6 +30,7 @@
                 let xhr = new XMLHttpRequest();
                 xhr.responseType = 'blob';
                 xhr.onload = function () {
+                    alert("Hello! I am an alert box 2");
                     let a = document.createElement('a');
                     a.href = window.URL.createObjectURL(xhr.response);
                     a.download = 'image_name.png';
