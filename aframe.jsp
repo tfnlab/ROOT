@@ -6,14 +6,11 @@
       AFRAME.registerComponent('modify-materials', {
         init: function () {
           // Wait for model to load.
-          this.el.addEventListener('model-loaded', () => {
-            // Grab the mesh / scene.
-            var el = this.el;
-            setTimeout(function () {
-               debugger;
-               el.components.screenshot.capture("perspective")
-            }, 1000);
-          });
+          var el = this.el;
+          setTimeout(function () {
+             debugger;
+             el.components.screenshot.capture("perspective")
+          }, 1000);
         }
       });
     </script>
