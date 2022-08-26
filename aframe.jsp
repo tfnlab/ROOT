@@ -17,7 +17,7 @@
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 </head>
 <body >
-    <a-scene background="color: #ECECEC">
+    <a-scene background="color: #ECECEC" capture-screenshot>
       <a-assets>
         <a-asset-item id="cityModel" src="https://cdn.aframe.io/test-models/models/glTF-2.0/virtualcity/VC.gltf"></a-asset-item>
       </a-assets>
