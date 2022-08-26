@@ -22,7 +22,7 @@
 
             function downloadImage()
             {
-                var canvas = document.getElementById("cityModel");
+                var canvas = document.querySelector('a-scene').components.screenshot.getCanvas('equirectangular');
                 var image = canvas.toDataURL();
 
                 var aLink = document.createElement('a');
@@ -40,9 +40,8 @@
       <a-assets>
         <a-asset-item id="cityModel" src="https://cdn.aframe.io/test-models/models/glTF-2.0/virtualcity/VC.gltf"></a-asset-item>
       </a-assets>
-      <a-entity gltf-model="#cityModel" modify-materials></a-entity>
+      <a-entity gltf-model="#cityModel" modify-materials></a-entity>    <!-- "button" -->
+      <a-entity id="refresh-button" geometry="primitive: box" material="color: red" position="0 0 -2" onclick="downloadImage()"></a>
     </a-scene>
-    <div><button onclick="downloadImage()">Download</button></div>
-    <image id="theimage"></image>
 </body>
 </html>
