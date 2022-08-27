@@ -17,6 +17,7 @@
 </head>
 <body >
     <a-scene background="color: #ECECEC" capture-screenshot >
+      <a-sky color="#6EBAA7"></a-sky>
       <a-assets>
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.glb.jsp?length=1&width=3&height=5&llength=8&lwidth=5"></a-asset-item>
       </a-assets>
