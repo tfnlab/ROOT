@@ -22,7 +22,7 @@
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.fs.glb.jsp?art=0&cat=0&sed=0&env=0"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials></a-entity>    <!-- "button" -->
-      <a-entity id="rig" position="-10 4 -10" rotation="0 -135 0">
+      <a-entity id="rig" position="-7 3 -7" rotation="0 -135 0">
         <a-entity id="camera" camera look-controls></a-entity>
       </a-entity>
     </a-scene>
