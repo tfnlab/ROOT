@@ -10,7 +10,7 @@
         setTimeout(function () {
            debugger;
            el.components.screenshot.capture("perspective")
-        }, 200000);
+        }, 2000);
       }
     });
     </script>
@@ -22,7 +22,7 @@
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.fs.glb.jsp?art=0&cat=0&sed=0&env=0"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials></a-entity>    <!-- "button" -->
-      <a-entity id="rig" position="-20 20 -20" rotation="-25 -135 0">
+      <a-entity id="rig" position="-20 20 -20" rotation="-30 -135 0">
         <a-entity id="camera" camera look-controls></a-entity>
       </a-entity>
     </a-scene>
