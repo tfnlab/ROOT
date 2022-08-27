@@ -23,7 +23,7 @@
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.fs.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=0&env=<%=request.getParameter("env")%>"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials rotation="0 -120 0"></a-entity>    <!-- "button" -->
-      <a-entity id="rig" position="-30 10 0" rotation="0 -90 0" spectator="true" >
+      <a-entity id="rig" position="-50 20 0" rotation="0 -90 0" spectator="true" >
         <a-entity id="camera" camera look-controls></a-entity>
       </a-entity>
     </a-scene>
