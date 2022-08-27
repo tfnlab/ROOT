@@ -19,7 +19,7 @@
     <a-scene background="color: #ECECEC" capture-screenshot vr-mode-ui="enabled: false">
       <a-sky color="#000000"></a-sky>
       <a-assets>
-        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.fs.glb.jsp?art=0&cat=0&sed=0&env=0"></a-asset-item>
+        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.fs.glb.jsp?art=<%=request.getParameter("art")%>&cat=0&sed=0&env=0"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials></a-entity>    <!-- "button" -->
       <a-entity id="rig" position="-20 20 -20" rotation="-30 -135 0">
