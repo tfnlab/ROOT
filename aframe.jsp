@@ -18,7 +18,7 @@
 <body >
     <a-scene background="color: #ECECEC" capture-screenshot >
       <a-assets>
-        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.glb.jsp?length=1&width=3&height=5&llength=8&lwidth=5"></a-asset-item>
+        <a-asset-item id="cityModel" src="https://play.tfnlab.com/farside.gltf"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials></a-entity>    <!-- "button" -->
     </a-scene>
