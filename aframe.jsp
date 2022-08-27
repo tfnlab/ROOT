@@ -18,7 +18,6 @@
 </head>
 <body >
     <a-scene background="color: #ECECEC" capture-screenshot vr-mode-ui="enabled: false">
-      <a-entity light="type: hemisphere; color: #33C; groundColor: #3C3; intensity: 1"></a-entity>
       <a-assets>
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.fs.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=0&env=<%=request.getParameter("env")%>"></a-asset-item>
       </a-assets>
