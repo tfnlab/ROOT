@@ -19,7 +19,7 @@
     <a-scene background="color: #ECECEC" capture-screenshot >
       <a-sky color="#6EBAA7"></a-sky>
       <a-assets>
-        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.glb.jsp?length=1&width=3&height=5&llength=8&lwidth=5"></a-asset-item>
+        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.fs.glb.jsp?art=0&cat=0&sed=0&env=0"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials></a-entity>    <!-- "button" -->
       <a-entity id="rig" position="-100 50 -100" rotation="0 -135 0">
