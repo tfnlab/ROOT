@@ -16,7 +16,7 @@
     </script>
 </head>
 <body >
-    <a-scene background="color: #ECECEC" capture-screenshot >
+    <a-scene background="color: #ECECEC" capture-screenshot vr-mode-ui="enabled: false">
       <a-sky color="#6EBAA7"></a-sky>
       <a-assets>
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.fs.glb.jsp?art=0&cat=0&sed=0&env=0"></a-asset-item>
