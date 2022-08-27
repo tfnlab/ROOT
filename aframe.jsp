@@ -11,7 +11,7 @@
         setTimeout(function () {
            debugger;
            el.components.screenshot.capture("perspective")
-        }, 20000);
+        }, 200000);
       }
     });
     </script>
@@ -19,7 +19,7 @@
 <body >
     <a-scene background="color: #ECECEC" capture-screenshot vr-mode-ui="enabled: false">
       <a-sky color="#000000"></a-sky>
-      <a-entity light="type: directional; color: #FFF; intensity: 0.6" position="-0.5 1 1"></a-entity>
+      <a-entity light="type: directional; color: #FFF; intensity: 5" position="-0.5 40 1"></a-entity>
       <a-assets>
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.fs.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=0&env=<%=request.getParameter("env")%>"></a-asset-item>
       </a-assets>
