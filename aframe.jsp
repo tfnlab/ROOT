@@ -19,11 +19,12 @@
 <body >
     <a-scene background="color: #ECECEC" capture-screenshot vr-mode-ui="enabled: false">
       <a-sky color="#000000"></a-sky>
+      <a-entity light="type: hemisphere; color: #BBB"></a-entity>
       <a-assets>
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.fs.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=0&env=<%=request.getParameter("env")%>"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials></a-entity>    <!-- "button" -->
-      <a-entity id="rig" position="-30 20 0" rotation="-30 -90 0">
+      <a-entity id="rig" position="-30 20 0" rotation="-30 -95 0">
         <a-entity id="camera" camera look-controls></a-entity>
       </a-entity>
     </a-scene>
