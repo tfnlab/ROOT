@@ -12,8 +12,8 @@
   //      newThread.start();
       }
 
-      response.setContentType("model/gltf+json");
-      response.setHeader("Content-disposition", "attachment; filename=studiocity.gltf");
+      response.setContentType("model/gltf-binary");
+      response.setHeader("Content-disposition", "attachment; filename=studiocity.glb");
 
       File f = file;
       FileInputStream in = null;
