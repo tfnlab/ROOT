@@ -17,7 +17,7 @@
       response.setHeader("Access-Control-Allow-Credentials", "false");
       response.setHeader("Access-Control-Max-Age", "3600");
       //response.setContentType("model/gltf-binary");
-      response.setHeader("Content-disposition", "attachment; filename=studiocity.glb");
+      //response.setHeader("Content-disposition", "attachment; filename=studiocity.glb");
 
       File f = file;
       FileInputStream in = null;
