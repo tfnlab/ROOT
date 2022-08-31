@@ -19,7 +19,7 @@
 <body >
     <a-scene  capture-screenshot vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
       <a-entity light="type: ambient; intensity: 0.2;"></a-entity>
-      <a-entity light="type: point; intensity: 0.75; distance: 50; decay: 2"
+      <a-entity light="type: point; intensity: 0.75; distance: 100; decay: 2"
           position="0 10 10"></a-entity>
       <a-assets>
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.bb.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=<%=request.getParameter("art")%>&env=<%=request.getParameter("env")%>"></a-asset-item>
