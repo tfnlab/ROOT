@@ -17,7 +17,7 @@
     </script>
 </head>
 <body >
-    <a-scene background="color: black" capture-screenshot vr-mode-ui="enabled: false">
+    <a-scene  capture-screenshot vr-mode-ui="enabled: false">
       <a-assets>
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.bb.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=<%=request.getParameter("art")%>&env=<%=request.getParameter("env")%>"></a-asset-item>
       </a-assets>
