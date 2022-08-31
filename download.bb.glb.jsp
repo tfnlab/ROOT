@@ -1,8 +1,23 @@
 <%@ page language="java" import="java.lang.Thread,org.apache.commons.io.IOUtils,org.apache.commons.io.output.*,java.nio.charset.Charset,java.io.*,java.util.*,java.awt.image.BufferedImage,javax.imageio.ImageIO,java.io.OutputStream,java.io.FileInputStream,java.io.File"%><%
 
       //https://play.tfnlab.com/download.igloo.glb.jsp?d=17&llength=19&lwidth=26&material=1&fh=1&loft=2&balcony=1
-
-      String filename = "/var/lib/tomcat9/webapps/glb/bbt" + request.getParameter("water") + "_"  + request.getParameter("sed") + "_"  + request.getParameter("head") + "_" + request.getParameter("env") + "_"  + request.getParameter("art") +".gltf";
+      /*
+      request.getParameter("water") + "_"  +
+      request.getParameter("sed") + "_"  +
+      request.getParameter("head") + "_" +
+      request.getParameter("env") + "_"  +
+      request.getParameter("art") +  "_"  +
+      request.getParameter("prot") +  "_"  +
+      request.getParameter("status") +  "_"  +
+      request.getParameter("shoe") +  "_"  +
+      request.getParameter("chest") +  "_"  +
+      request.getParameter("bp") +  "_"  +
+      request.getParameter("ant") +  "_"  +
+      request.getParameter("bagpack") +  "_"  +
+      request.getParameter("shield") +  "_"  +
+      request.getParameter("ears") + ".gltf";
+      */
+      String filename = "/var/lib/tomcat9/webapps/glb/bbt" + request.getParameter("water") + "_"  + request.getParameter("sed") + "_"  + request.getParameter("head") + "_" + request.getParameter("env") + "_"  + request.getParameter("art") +  "_"  + request.getParameter("prot") +  "_"  + request.getParameter("status") +  "_"  + request.getParameter("shoe") +  "_"  + request.getParameter("chest") +  "_"  + request.getParameter("bp") +  "_"  + request.getParameter("ant") +  "_"  + request.getParameter("bagpack") +  "_"  + request.getParameter("shield") +  "_"  + request.getParameter("ears") + ".gltf";
       File file = new File(filename);
       if(!file.exists()){
 //        filename = "/var/lib/tomcat9/webapps/glb/house0_0_0_0_0.gltf";
