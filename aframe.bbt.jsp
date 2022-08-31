@@ -17,7 +17,7 @@
     </script>
 </head>
 <body >
-    <a-scene  capture-screenshot vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
+    <a-scene  background="color: black" capture-screenshot vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
       <a-entity light="type: ambient; intensity: 0.2;"></a-entity>
       <a-entity light="type: point; intensity: 0.8; distance: 1000; decay: 2"
           position="0 10 100"></a-entity>
