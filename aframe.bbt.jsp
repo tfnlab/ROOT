@@ -18,6 +18,12 @@
 </head>
 <body >
     <a-scene  capture-screenshot vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
+      <a-entity light="type: ambient; intensity: 0.5;"></a-entity>
+      <a-entity light="type: directional;
+                       castShadow: true;
+                       intensity: 0.4;
+                       shadowCameraVisible: true;"
+                position="-5 3 1.5"></a-entity>      
       <a-assets>
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.bb.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=<%=request.getParameter("art")%>&env=<%=request.getParameter("env")%>"></a-asset-item>
       </a-assets>
