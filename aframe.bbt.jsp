@@ -22,8 +22,8 @@
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.bb.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=<%=request.getParameter("art")%>&env=<%=request.getParameter("env")%>"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials rotation="0 0 0"></a-entity>    <!-- "button" -->
-      <a-entity id="rig" position="0 60 250" rotation="-25 0 0" spectator="true" >
-        <a-entity id="camera" camera="zoom: 2" look-controls></a-entity>
+      <a-entity id="rig" position="0 60 250" rotation="-30 0 0" spectator="true" >
+        <a-entity id="camera" camera="zoom: 3" look-controls></a-entity>
       </a-entity>
     </a-scene>
 </body>
