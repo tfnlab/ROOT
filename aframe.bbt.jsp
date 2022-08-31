@@ -22,23 +22,8 @@
       <a-entity light="type: point; intensity: 0.8; distance: 1000; decay: 2"
           position="0 10 100"></a-entity>
       <a-assets>
-        /*
-        request.getParameter("water") + "_"  +
-        request.getParameter("sed") + "_"  +
-        request.getParameter("head") + "_" +
-        request.getParameter("env") + "_"  +
-        request.getParameter("art") +  "_"  +
-        request.getParameter("prot") +  "_"  +
-        request.getParameter("status") +  "_"  +
-        request.getParameter("shoe") +  "_"  +
-        request.getParameter("chest") +  "_"  +
-        request.getParameter("bp") +  "_"  +
-        request.getParameter("ant") +  "_"  +
-        request.getParameter("bagpack") +  "_"  +
-        request.getParameter("shield") +  "_"  +
-        request.getParameter("ears") + ".gltf";
-        */
-        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.bb.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=<%=request.getParameter("art")%>&env=<%=request.getParameter("env")%>&head=<%=request.getParameter("head")%>&prot=<%=request.getParameter("prot")%>&status=<%=request.getParameter("status")%>&shoe=<%=request.getParameter("shoe")%>&chest=<%=request.getParameter("chest")%>&bp=<%=request.getParameter("bp")%>&ant=<%=request.getParameter("ant")%>&bagpack=<%=request.getParameter("bagpack")%>&shield=<%=request.getParameter("shield")%>&head=<%=request.getParameter("head")%>"></a-asset-item>
+
+        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.bb.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=<%=request.getParameter("art")%>&env=<%=request.getParameter("env")%>&head=<%=request.getParameter("head")%>&prot=<%=request.getParameter("prot")%>&status=<%=request.getParameter("status")%>&shoe=<%=request.getParameter("shoe")%>&chest=<%=request.getParameter("chest")%>&bp=<%=request.getParameter("bp")%>&ant=<%=request.getParameter("ant")%>&bagpack=<%=request.getParameter("bagpack")%>&shield=<%=request.getParameter("shield")%>&ears=<%=request.getParameter("ears")%>"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials rotation="0 35 0"></a-entity>    <!-- "button" -->
       <a-entity id="rig" position="0 80 250" rotation="-20 0 0" spectator="true" >
