@@ -16,9 +16,6 @@
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.bb.glb.jsp?water=<%=request.getParameter("water")%>&sed=<%=request.getParameter("sed")%>&art=<%=request.getParameter("art")%>&env=<%=request.getParameter("env")%>&head=<%=request.getParameter("head")%>&prot=<%=request.getParameter("prot")%>&status=<%=request.getParameter("status")%>&shoe=<%=request.getParameter("shoe")%>&chest=<%=request.getParameter("chest")%>&bp=<%=request.getParameter("bp")%>&ant=<%=request.getParameter("ant")%>&bagpack=<%=request.getParameter("bagpack")%>&shield=<%=request.getParameter("shield")%>&ears=<%=request.getParameter("ears")%>"></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials rotation="0 35 0"></a-entity>    <!-- "button" -->
-      <a-entity id="rig" position="0 80 250" rotation="-20 0 0" spectator="true" >
-        <a-entity id="camera" camera="zoom: 4" look-controls></a-entity>
-      </a-entity>
     </a-scene>
 </body>
 </html>
