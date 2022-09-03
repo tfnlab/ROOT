@@ -8,9 +8,9 @@
 </head>
 <body >
     <a-scene  background="color: white" vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
-      <a-entity light="type: ambient; intensity: 0.2;"></a-entity>
+      <a-entity light="type: ambient; intensity: 1;"></a-entity>
       <a-entity light="type: point; intensity: 0.8; distance: 1000; decay: 2"
-          position="0 10 100"></a-entity>
+          position="0 0 0"></a-entity>
       <a-assets>
 
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.xcity.glb.jsp?block=<%=request.getParameter("block")%>" ></a-asset-item>
