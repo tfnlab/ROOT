@@ -16,8 +16,8 @@
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.xcity.glb.jsp?block=<%=request.getParameter("block")%>" ></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials position="0 0 0" rotation="0 0 0" ></a-entity>    <!-- "button" -->
-      <a-entity id="rig" position="0 100 0" rotation="-90 0 0" spectator="true" >
-        <a-entity id="camera" camera="zoom: 10" look-controls></a-entity>
+      <a-entity id="rig" position="0 300 0" rotation="-90 0 0" spectator="true" >
+        <a-entity id="camera" camera="zoom: 20" look-controls></a-entity>
       </a-entity>
     </a-scene>
 </body>
