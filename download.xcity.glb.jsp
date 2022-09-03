@@ -12,7 +12,7 @@
   //      });
   //      newThread.start();
           %>FILE NO THERE<%
-      }else
+      }else{
 
       response.setContentType("model/gltf+json");
       response.setHeader("Content-disposition", "attachment; filename=studiocity.gltf");
