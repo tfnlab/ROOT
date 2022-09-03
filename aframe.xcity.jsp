@@ -7,7 +7,7 @@
 
 </head>
 <body >
-    <a-scene  background="color: black" vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
+    <a-scene  background="color: white" vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
       <a-entity light="type: ambient; intensity: 0.2;"></a-entity>
       <a-entity light="type: point; intensity: 0.8; distance: 1000; decay: 2"
           position="0 10 100"></a-entity>
@@ -15,7 +15,7 @@
 
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.xcity.glb.jsp?block=<%=request.getParameter("block")%>" ></a-asset-item>
       </a-assets>
-      <a-entity gltf-model="#cityModel" modify-materials rotation="0 110 100"></a-entity>    <!-- "button" -->
+      <a-entity gltf-model="#cityModel" modify-materials rotation="0 50 0"></a-entity>    <!-- "button" -->
     </a-scene>
 </body>
 </html>
