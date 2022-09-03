@@ -17,7 +17,7 @@
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials position="0 0 0" rotation="0 0 0" ></a-entity>    <!-- "button" -->
       <a-entity id="rig" position="0 300 0" rotation="-90 0 0" spectator="true" >
-        <a-entity id="camera" camera="zoom: 1" look-controls></a-entity>
+        <a-entity id="camera" camera="zoom: 2" look-controls></a-entity>
       </a-entity>
     </a-scene>
 </body>
