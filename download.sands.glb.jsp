@@ -17,7 +17,7 @@
       request.getParameter("shield") +  "_"  +
       request.getParameter("ears") + ".gltf";
       */
-      String filename = "/var/lib/tomcat9/webapps/glb/skull" + request.getParameter("hat") + "_"  + request.getParameter("ear") + "_"  + request.getParameter("glass") + "_" + request.getParameter("mouth") + "_"  + request.getParameter("neck") +  "_" + request.getParameter("cloth") +  "_"  + request.getParameter("shoes") +  "_"  + request.getParameter("bag") + ".gltf";
+      String filename = "/var/lib/tomcat9/webapps/glb/sands" + request.getParameter("hat") + "_"  + request.getParameter("ear") + "_"  + request.getParameter("glass") + "_" + request.getParameter("mouth") + "_"  + request.getParameter("neck") +  "_" + request.getParameter("cloth") +  "_"  + request.getParameter("shoes") +  "_"  + request.getParameter("bag") + ".gltf";
       File file = new File(filename);
       if(!file.exists()){
 //        filename = "/var/lib/tomcat9/webapps/glb/house0_0_0_0_0.gltf";

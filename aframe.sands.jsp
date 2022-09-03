@@ -13,7 +13,7 @@
           position="0 10 100"></a-entity>
       <a-assets>
 
-        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.skull.glb.jsp?hat=<%=request.getParameter("hat")%>&ear=<%=request.getParameter("ear")%>&glass=<%=request.getParameter("glass")%>&neck=<%=request.getParameter("neck")%>&cloth=<%=request.getParameter("cloth")%>&shoes=<%=request.getParameter("shoes")%>&bag=<%=request.getParameter("bag")%>" ></a-asset-item>
+        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.sands.glb.jsp?hat=<%=request.getParameter("hat")%>&ear=<%=request.getParameter("ear")%>&glass=<%=request.getParameter("glass")%>&neck=<%=request.getParameter("neck")%>&cloth=<%=request.getParameter("cloth")%>&shoes=<%=request.getParameter("shoes")%>&bag=<%=request.getParameter("bag")%>" ></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials rotation="0 35 0"></a-entity>    <!-- "button" -->
     </a-scene>
