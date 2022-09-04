@@ -1,6 +1,6 @@
 <%@ page language="java" import="java.lang.Thread,org.apache.commons.io.IOUtils,org.apache.commons.io.output.*,java.nio.charset.Charset,java.io.*,java.util.*,java.awt.image.BufferedImage,javax.imageio.ImageIO,java.io.OutputStream,java.io.FileInputStream,java.io.File"%><%
 
-      String filename = "/var/lib/tomcat9/webapps/glb/xcity" + request.getParameter("block") + ".gltf";
+      String filename = "/var/lib/tomcat9/webapps/glb/xcity" + request.getParameter("l1") + "_" + request.getParameter("l2") + "_" + request.getParameter("l3") + "_" + request.getParameter("l4") +  ".gltf";
       File file = new File(filename);
       if(!file.exists()){
 //        filename = "/var/lib/tomcat9/webapps/glb/house0_0_0_0_0.gltf";

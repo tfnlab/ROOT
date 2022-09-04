@@ -13,7 +13,7 @@
           position="10 10 10"></a-entity>
       <a-assets>
 
-        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.xcity.glb.jsp?block=<%=request.getParameter("block")%>" ></a-asset-item>
+        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.xcity.glb.jsp?l1=<%=request.getParameter("l1")%>&l2=<%=request.getParameter("l2")%>&l3=<%=request.getParameter("l3")%>&l4=<%=request.getParameter("l4")%>" ></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials position="0 0 0" rotation="0 0 0" ></a-entity>    <!-- "button" -->
       <a-entity id="rig" position="0 300 0" rotation="-90 0 0" spectator="true" >
