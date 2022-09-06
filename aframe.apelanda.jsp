@@ -13,7 +13,7 @@
       setTimeout(function () {
          debugger;
          el.components.screenshot.capture("perspective")
-      }, 1000000);
+      }, 100);
     }
   });
   </script>
