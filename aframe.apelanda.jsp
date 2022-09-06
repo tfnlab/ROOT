@@ -19,7 +19,7 @@
 </head>
 <body >
     <a-scene  background="color: white" capture-screenshot vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
-      <a-entity environment="preset: forest; groundColor: #445; grid: cross"></a-entity>
+      <a-entity environment="lightPosition: 1 5 -2; groundColor: #445"></a-entity>
       <a-entity light="type: ambient; intensity: 1;"></a-entity>
       <a-entity light="type: point; intensity: 0.8; distance: 10000; decay: 2"
           position="10 10 10"></a-entity>
