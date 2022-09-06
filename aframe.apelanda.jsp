@@ -19,8 +19,10 @@
   </script>
 </head>
 <body >
-    <a-scene  capture-screenshot vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
-      <a-entity environment="preset: forest; groundColor: #445; grid: cross"></a-entity>
+    <a-scene  background="color: white" capture-screenshot vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
+        <a-entity light="type: ambient; intensity: 1;"></a-entity>
+      <a-entity light="type: point; intensity: 0.8; distance: 10000; decay: 2"
+          position="10 10 10"></a-entity>
 
       <a-assets>
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.apelanda.glb.jsp?land=<%=request.getParameter("land")%>" ></a-asset-item>
