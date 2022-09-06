@@ -28,7 +28,7 @@
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.apelanda.glb.jsp?land=<%=request.getParameter("land")%>" ></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials position="0 0 0" rotation="0 0 0" ></a-entity>    <!-- "button" -->
-      <a-entity id="rig" position="-2 6 20" rotation="-10 0 0" spectator="true" >
+      <a-entity id="rig" position="-2 6 35" rotation="-10 0 0" spectator="true" >
         <a-entity id="camera" camera="zoom: 1" look-controls></a-entity>
       </a-entity>
     </a-scene>
