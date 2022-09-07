@@ -27,6 +27,11 @@
                 <div class="sidebar-heading border-bottom bg-light">Apelanda</div>
                 <div class="list-group list-group-flush">
                     <a class="list-group-item list-group-item-action list-group-item-light p-3" href="https://tfnlab.com">OpenSea</a>
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">Enter NFT Number</label>
+                      <input type="text" class="form-control" id="nftID" aria-describedby="Enter NFT ID" placeholder="Enter NFT Number">
+                    </div>
+                    <button type="submit" class="btn btn-primary" onclick="callTFNLab()">Next</button>
                 </div>
             </div>
             <!-- Page content wrapper-->
@@ -43,16 +48,10 @@
                     </div>
                 </nav>
                 <!-- Page content-->
-                <div class="container-fluid">
-                  <img src="https://apelanda.tfnlab.com/images/0.png" />
-
-  <div class="form-group">
-    <label for="exampleInputEmail1">Enter NFT Number</label>
-    <input type="text" class="form-control" id="nftID" aria-describedby="Enter NFT ID" placeholder="Enter NFT Number">
-  </div>
-  <button type="submit" class="btn btn-primary" onclick="callTFNLab()">Next</button>
-</form>
-                </div>
+                  <!-- Page content-->
+                  <div class="container-fluid">
+                      <img src="https://apelanda.tfnlab.com/images/0.png" id="imgfile" width="100%"/>
+                  </div>
             </div>
         </div>
         <!-- Bootstrap core JS-->
