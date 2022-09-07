@@ -26,9 +26,7 @@
             <div class="border-end bg-white" id="sidebar-wrapper">
                 <div class="sidebar-heading border-bottom bg-light">Apelanda</div>
                 <div class="list-group list-group-flush">
-                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="https://tfnlab.com">OpenSea</a>
                     <div class="form-group">
-                      <label for="exampleInputEmail1">Enter NFT Number</label>
                       <input type="text" class="form-control" id="nftID" aria-describedby="Enter NFT ID" placeholder="Enter NFT Number">
                     </div>
                     <button type="submit" class="btn btn-primary" onclick="callTFNLab()">Next</button>
