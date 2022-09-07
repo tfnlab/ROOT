@@ -37,13 +37,14 @@
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav ms-auto mt-2 mt-lg-0">
-                                <li class="nav-item"><a class="nav-link" href="https://twitter.com/tfnlab">OpenSea</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://twitter.com/metagascarNFT">TFNLab</a></li>
                             </ul>
                         </div>
                     </div>
                 </nav>
                 <!-- Page content-->
                 <div class="container-fluid">
+                  <img src="https://apelanda.tfnlab.com/images/0.png" />
 
   <div class="form-group">
     <label for="exampleInputEmail1">Enter NFT Number</label>
