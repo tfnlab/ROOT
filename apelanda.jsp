@@ -13,18 +13,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script>
           function callTFNLab() {
-            var urlString =  "download.jsp?shirt=" + document.getElementById("shirt").value + "&body=0&smile=" + document.getElementById("smile").value + "&gum=" + document.getElementById("gum").value + "&lazers=" + document.getElementById("lazers").value + "&hats=" + document.getElementById("hats").value + "&earring=" + document.getElementById("earring").value + "&chain=" + document.getElementById("chain").value ;
-
-            var xhttp = new XMLHttpRequest();
-            xhttp.onreadystatechange = function() {
-              if (this.readyState == 4 && this.status == 200) {
-                var urlStringTwo =  "download.jsp?shirt=" + document.getElementById("shirt").value + "&body=0&smile=" + document.getElementById("smile").value + "&gum=" + document.getElementById("gum").value + "&lazers=" + document.getElementById("lazers").value + "&hats=" + document.getElementById("hats").value + "&earring=" + document.getElementById("earring").value + "&chain=" + document.getElementById("chain").value ;
-                document.getElementById("imgfile").src = urlStringTwo;
-              }
-            };
-            document.getElementById("imgfile").src = "prog.gif";
-            xhttp.open("GET", urlString, true);
-            xhttp.send();
+            alert("test");
           }
         </script>
     </head>
@@ -57,7 +46,7 @@
     <label for="exampleInputEmail1">Enter NFT Number</label>
     <input type="text" class="form-control" id="nftID" aria-describedby="Enter NFT ID" placeholder="Enter NFT Number">
   </div>
-  <button type="submit" class="btn btn-primary">Enter Land</button>
+  <button type="submit" class="btn btn-primary" onclick="callTFNLab()">Next</button>
 </form>
                 </div>
             </div>
