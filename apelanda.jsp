@@ -29,7 +29,7 @@
                     <div class="form-group">
                       <input type="text" class="form-control" id="nftID" aria-describedby="Enter NFT ID" placeholder="Enter NFT Number">
                     </div>
-                    <button type="submit" class="btn btn-primary" onclick="callTFNLab()">Next</button>
+                    <button type="submit" class="btn btn-primary" onclick="callTFNLab()">Enter Property</button>
                 </div>
             </div>
             <!-- Page content wrapper-->
@@ -37,6 +37,7 @@
                 <!-- Top navigation-->
                 <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
                     <div class="container-fluid">
+                        <button class="btn btn-primary" id="sidebarToggle">Menu</button>
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul class="navbar-nav ms-auto mt-2 mt-lg-0">
