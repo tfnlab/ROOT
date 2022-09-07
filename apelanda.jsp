@@ -25,7 +25,9 @@
             <div class="border-end bg-white" id="sidebar-wrapper">
                 <div class="sidebar-heading border-bottom bg-light">Apelanda</div>
                 <div class="list-group list-group-flush">
+                    <BR><BR>
                     <small>Enter Apelanda NFT number and click "Enter Property" to view in Metaverse</small>
+                    <BR><BR>
                     <div class="form-group">
                       <input type="text" class="form-control" id="nftID" aria-describedby="Enter NFT ID" placeholder="Enter NFT Number">
                     </div>
