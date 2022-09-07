@@ -6,20 +6,10 @@
   <script src="https://unpkg.com/aframe-environment-component@1.3.1/dist/aframe-environment-component.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
-  <script>
-  AFRAME.registerComponent('capture-screenshot', {
-    init: function () {
-      var el = this.el;
-      setTimeout(function () {
-         debugger;
-         el.components.screenshot.capture("perspective")
-      }, 100);
-    }
-  });
-  </script>
+
 </head>
 <body >
-    <a-scene  background="color: #87ceeb" capture-screenshot vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
+    <a-scene  background="color: #87ceeb" vr-mode-ui="enabled: true" light="defaultLightsEnabled: false">
         <a-entity light="type: ambient; intensity: 1;"></a-entity>
       <a-entity light="type: point; intensity: 0.8; distance: 10000; decay: 2"
           position="10 10 10"></a-entity>
