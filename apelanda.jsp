@@ -14,6 +14,8 @@
         <script>
           function callTFNLab() {
             alert("test");
+            const vrURLList = ["https://www.w3schools.com", "https://www.w3schools.com", "https://www.w3schools.com"];
+            window.open(vrURLList[document.getElementById("nftID").value]);
           }
         </script>
     </head>
