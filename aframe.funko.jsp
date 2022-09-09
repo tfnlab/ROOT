@@ -24,7 +24,7 @@
           position="10 10 10"></a-entity>
 
       <a-assets>
-        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.funko.glb.jsp?head=<%=request.getParameter("head")%>&sho=<%=request.getParameter("sho")%>&m=<%=request.getParameter("m")%>&eyes=<%=request.getParameter("eyes")%>&ears=<%=request.getParameter("ears")%>&hp=<%=request.getParameter("hp")%>&sho=<%=request.getParameter("sho")%>&hb=<%=request.getParameter("hb")%>" ></a-asset-item>
+        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.funko.glb.jsp?head=<%=request.getParameter("head")%>&shi=<%=request.getParameter("shi")%>&m=<%=request.getParameter("m")%>&eyes=<%=request.getParameter("eyes")%>&ears=<%=request.getParameter("ears")%>&hp=<%=request.getParameter("hp")%>&sho=<%=request.getParameter("sho")%>&hb=<%=request.getParameter("hb")%>" ></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials position="0 0 0" rotation="0 1 0" ></a-entity>    <!-- "button" -->
       <a-entity id="rig" position="0 6 37.5" rotation="-15 0 0" spectator="true" >
