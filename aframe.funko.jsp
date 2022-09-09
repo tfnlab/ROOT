@@ -26,8 +26,8 @@
       <a-assets>
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.funko.glb.jsp?head=<%=request.getParameter("head")%>&shi=<%=request.getParameter("shi")%>&m=<%=request.getParameter("m")%>&eyes=<%=request.getParameter("eyes")%>&ears=<%=request.getParameter("ears")%>&hp=<%=request.getParameter("hp")%>&sho=<%=request.getParameter("sho")%>&hb=<%=request.getParameter("hb")%>" ></a-asset-item>
       </a-assets>
-      <a-entity gltf-model="#cityModel" modify-materials position="0 0 0" rotation="0 1 0" ></a-entity>    <!-- "button" -->
-      <a-entity id="rig" position="0 6 37.5" rotation="-15 0 0" spectator="true" >
+      <a-entity gltf-model="#cityModel" modify-materials position="0 0 0" rotation="0 90 0" ></a-entity>    <!-- "button" -->
+      <a-entity id="rig" position="0 6 10" rotation="-15 0 0" spectator="true" >
         <a-entity id="camera" camera="zoom: 1" look-controls  wasd-controls="acceleration: 1000" ></a-entity>
       </a-entity>
     </a-scene>
