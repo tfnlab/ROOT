@@ -12,7 +12,7 @@
       setTimeout(function () {
          debugger;
          el.components.screenshot.capture("perspective")
-      }, 30000000);
+      }, 300);
     }
   });
   </script>
