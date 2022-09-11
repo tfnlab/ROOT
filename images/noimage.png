@@ -1,0 +1,1050 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+        <link rel="dns-prefetch" href="//static.addtoany.com/">
+        <link rel="preload" href="/wp-content/themes/classy/dist/fonts/Circe/Circe-Bold.woff2" crossorigin="anonymous" as="font">
+        <link rel="preload" href="/wp-content/themes/classy/dist/fonts/ProximaNova/ProximaNova-Regular.woff2" crossorigin="anonymous" as="font">
+        <link rel="preload" href="/wp-content/themes/classy/dist/fonts/ProximaNova/ProximaNova-Semibold.woff2" crossorigin="anonymous" as="font">
+        <link rel="preload" href="/wp-content/themes/classy/dist/fonts/ProximaNova/ProximaNova-Bold.woff2" crossorigin="anonymous" as="font">
+        <link rel="preload" href="/wp-content/themes/classy/dist/fonts/Rajdhani/LDIxapCSOBg7S-QT7p4HM-Y.woff2" crossorigin="anonymous" as="font">
+        <link rel="preload" href="/wp-content/themes/classy/dist/fonts/Rajdhani/LDI2apCSOBg7S-QT7pa8FvOreec.woff2" crossorigin="anonymous" as="font">
+        <link rel="preload" href="/wp-content/themes/classy/dist/fonts/Rajdhani/LDI2apCSOBg7S-QT7pbYF_Oreec.woff2" crossorigin="anonymous" as="font">
+        <link rel="preload" href="/wp-content/themes/classy/dist/fonts/OpenSans/mem8YaGs126MiZpBA-UFVZ0b.woff2" crossorigin="anonymous" as="font">
+        <link rel="preload" href="/wp-content/themes/classy/dist/fonts/OpenSans/mem5YaGs126MiZpBA-UN8rsOUuhp.woff2" crossorigin="anonymous" as="font">
+
+
+        
+        <script>
+            var hostname = "https://kevurugames.com";
+            var ajaxurl = "https://kevurugames.com/wp-admin/admin-ajax.php";
+        </script>
+
+        
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="object">
+<meta property="og:title" content="Page not found - Kevuru Games">
+<meta property="og:site_name" content="Kevuru Games">
+<meta property="og:image" content="kevuru.png">
+<meta property="og:image:secure_url" content="kevuru.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Page not found - Kevuru Games">
+<meta name="twitter:image" content="https://kevurugames.com/kevuru.png">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://kevurugames.com/#organization","name":"Kevurugames - Game Art Studio","url":"https://kevurugames.com/","sameAs":["https://www.facebook.com/KevuruGames/","https://www.linkedin.com/company/kevuru-games/"],"logo":{"@type":"ImageObject","@id":"https://kevurugames.com/#logo","url":"https://kevurugames.com/wp-content/uploads/2020/12/logo.png","width":200,"height":66,"caption":"Kevurugames - Game Art Studio"},"image":{"@id":"https://kevurugames.com/#logo"}},{"@type":"WebSite","@id":"https://kevurugames.com/#website","url":"https://kevurugames.com/","name":"Kevuru Games","publisher":{"@id":"https://kevurugames.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://kevurugames.com/?s={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel="dns-prefetch" href="//js.hs-scripts.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="wp-block-library-css" href="../css/style.min.css" media="all">
+<link rel="stylesheet" id="editorskit-frontend-css" href="../css/style.build.css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="../css/styles.css" media="all">
+<link rel="stylesheet" id="cookie-notice-front-css" href="../css/front.min.css" media="all">
+<link rel="stylesheet" id="addtoany-css" href="../css/addtoany.min.css" media="all">
+<style id="rocket-lazyload-inline-css" type="text/css">
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(youtube.png) no-repeat;cursor:pointer}
+</style>
+<script src="../js/jquery.js"></script>
+<link rel="https://api.w.org/" href="https://kevurugames.com/wp-json/">
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+a2a_config.icon_color="#ffffff,#cacaca";
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<!-- Head & Footer Code: Site-wide HEAD section start (not singular) -->
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128527904-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'UA-128527904-1');
+</script>
+<!-- Head & Footer Code: Site-wide HEAD section end (not singular) -->
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v8.0.294-->
+			<script type="text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script>
+				(function() {
+					var hbspt = window.hbspt = window.hbspt || {};
+					hbspt.forms = hbspt.forms || {};
+					hbspt._wpFormsQueue = [];
+					hbspt.enqueueForm = function(formDef) {
+						if (hbspt.forms && hbspt.forms.create) {
+							hbspt.forms.create(formDef);
+						} else {
+							hbspt._wpFormsQueue.push(formDef);
+						}
+					}
+					if (!window.hbspt.forms.create) {
+						Object.defineProperty(window.hbspt.forms, 'create', {
+							configurable: true,
+							get: function() {
+								return hbspt._wpCreateForm;
+							},
+							set: function(value) {
+								hbspt._wpCreateForm = value;
+								while (hbspt._wpFormsQueue.length) {
+									var formDef = hbspt._wpFormsQueue.shift();
+									if (!document.currentScript) {
+										var formScriptId = 'leadin-forms-v2-js';
+										hubspot.utils.currentScript = document.getElementById(formScriptId);
+									}
+									hbspt._wpCreateForm.call(hbspt.forms, formDef);
+								}
+							},
+						});
+					}
+				})();
+			</script>
+				<style type="text/css" id="wp-custom-css">
+			.vacancy__cv.text-18.text-white {display:none;}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+
+        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="/wp-content/themes/classy/dist/img/favicon/site.webmanifest">
+<link rel="mask-icon" href="../fonts/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="../favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Kevuru">
+<meta name="application-name" content="Kevuru">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="msapplication-config" content="/wp-content/themes/classy/dist/img/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+        <meta property="og:image" content="noimage.png">
+    <meta property="og:image:width" content="500">
+    <meta property="og:image:height" content="400">
+
+<title>Page not found - Kevuru Games</title>
+<meta property="og:title" content="Page not found - Kevuru Games">
+
+    
+    <meta property="og:description" content="Kevuru Games&#039; representatives visited Gamescom, a trade fair for video games held annually at the Koelnmesse in Cologne, North Rhine-Westphalia, Germany.">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kevurugames.com/blog/kevuru-games-at-gamescom-2022/">
+
+ 
+                    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KNMXG7C');</script>
+    <!-- End Google Tag Manager -->
+
+
+        
+        <link rel="stylesheet" href="../css/main.css">
+        <link rel="stylesheet" href="../css/style-home.css">
+		
+        
+                <link rel="stylesheet" href="../css/kpdmedia_styles_new.css">
+        
+		
+        <noscript><style>.simplebar-content-wrapper{overflow:auto}</style></noscript>
+        <meta name="facebook-domain-verification" content="fj1qk34bl8d3b84d09hjz6a0iwkbmh">
+    </head>
+
+    <body class="error404 cookies-not-set">
+
+        <!--TEST_ST-->
+
+                    <!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNMXG7C" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->
+        
+        <div class="wrapper" id="top">
+            <header class="header  js-header">
+    <div class="container">
+        <div class="header-wrapper flex-wrap">
+            <div class="header-logo">
+                
+                    <a href="https://kevurugames.com/" class="header-logo-link">
+                        <img src="../fonts/logo.svg" alt="Kevuru Games Logo">
+                        <!--<img src="/wp-content/themes/classy/dist/img/logo_ten_years.svg" style="width: 200px; margin-top: -30px;" alt="Kevuru Games Logo">-->
+                    </a>
+                
+            </div>
+            <div class="header-menu">
+                <div class="container">
+
+				                
+                <ul class="st_new_menu">
+                        <li class="st_services st_services_menu">
+                                            <div class="st_menu_first_level">
+                                                <a href="#">Services</a>
+                                                <div class="show_hide_submenu"></div>
+                                            </div>
+                                            <div class="st_submenu_container">
+                                                <div class="st_submenu_container_wrapper"><div class="st_submenu_level_2">
+                                                        <div class="st_submenu_level_2_header active">
+                                                            <span data-block_href="https://kevurugames.com/game-development/">Game Development</span>
+                                                            <div class="show_hide_submenu"></div>
+                                                        </div>
+                                                        <div class="st_submenu_level_2_container">
+                                                            <div class="st_submenu_level_2_container_header">
+                                                                <a href="https://kevurugames.com/game-development/">Game Development</a>
+                                                            </div>
+                                                            <div class="st_submenu_level_2_container_content"><div class="st_submenu_level_2_col"><a href="https://kevurugames.com/game-development/android-game-development-services/">Android Game Development</a><a href="https://kevurugames.com/game-development/ios-game-development-services/">iOS Game Development</a><a href="https://kevurugames.com/game-development/mmorpg-game-development/">MMORPG Game Development</a><a href="https://kevurugames.com/game-development/3d-game-development/">3D Game Development</a><a href="https://kevurugames.com/game-development/game-qa-testing-services/">Game Testing</a><a href="https://kevurugames.com/game-development/game-porting-services/">Game Porting</a></div><div class="st_submenu_level_2_col"><a href="https://kevurugames.com/game-development/unity-game-development-services/">Unity Development</a><a href="https://kevurugames.com/game-development/unreal-game-development-services/">Unreal Development</a><a href="https://kevurugames.com/game-development/pc-game-development-services/">PC Game Development</a><a href="https://kevurugames.com/game-development/mobile-game-development-services/">Mobile Game Development</a><a href="https://kevurugames.com/game-development/hyper-casual-game-development-services/">Hyper Casual Game Development</a><a href="https://kevurugames.com/c-game-development-services/">C++ Game Development</a></div><div class="st_submenu_level_2_col"><a href="https://kevurugames.com/gamification-services/">Gamification Services</a><a href="https://kevurugames.com/nft-game-development/">NFT Game Development</a><a href="https://kevurugames.com/nft-marketplace-development/">NFT Marketplace Development</a><a href="https://kevurugames.com/metaverse-development/">Metaverse Development</a><a href="https://kevurugames.com/blockchain-game-development/">Blockchain Game Development</a><a href="https://kevurugames.com/play-to-earn-game-development/">Play-To-Earn Game Development</a><a href="https://kevurugames.com/nft-design-company/">NFT Design Company</a></div></div>
+                                                            <div class="all_servicec_link"><a href="https://kevurugames.com/all-services/" style="font-family: Rajdhani;font-size:20px;color: #39B4BD;font-weight: bold;">See all services</a></div>
+                                                        </div>
+                                                    </div><div class="st_submenu_level_2">
+                                                        <div class="st_submenu_level_2_header">
+                                                            <span data-block_href="https://kevurugames.com/game-art/">Game Art</span>
+                                                            <div class="show_hide_submenu"></div>
+                                                        </div>
+                                                        <div class="st_submenu_level_2_container">
+                                                            <div class="st_submenu_level_2_container_header">
+                                                                <a href="https://kevurugames.com/game-art/">Game Art</a>
+                                                            </div>
+                                                            <div class="st_submenu_level_2_container_content"><div class="st_submenu_level_2_col"><a href="https://kevurugames.com/game-art/concept-art/">Concept Art</a><a href="https://kevurugames.com/game-art/casual-game-art-services/">Casual Art</a><a href="https://kevurugames.com/game-art/game-environment-design/">Environment Design</a><a href="https://kevurugames.com/game-art/character-design-company/">Character Design</a><a href="https://kevurugames.com/game-art/hidden-objects-game-design-services/">Hidden Objects</a></div><div class="st_submenu_level_2_col"><a href="https://kevurugames.com/game-art/slots-machines-and-casino-game-design-services/">Slots Games Art</a><a href="https://kevurugames.com/game-art/aaa-game-art-studio-services/">AAA</a><a href="https://kevurugames.com/game-art/2d-art/">2D Art</a><a href="https://kevurugames.com/game-art/2d-characters-design/">2D Characters Design</a><a href="https://kevurugames.com/game-art/2d-environment-design/">2D Environment Design</a><a href="https://kevurugames.com/game-art/3d-art/">3D Art</a></div><div class="st_submenu_level_2_col"><a href="https://kevurugames.com/game-art/3d-characters-design/">3D Characters Design</a><a href="https://kevurugames.com/game-art/3d-environment-design/">3D Environment Design</a><a href="https://kevurugames.com/game-art/3d-game-modeling/">3D Game Modeling</a><a href="https://kevurugames.com/game-art/3d-sculpting/">3D Sculpting</a><a href="https://kevurugames.com/game-art/ui-ux-design/">UI/UX Design</a><a href="https://kevurugames.com/game-art/illustration-services/">Illustration Services</a></div></div>
+                                                            <div class="all_servicec_link"><a href="https://kevurugames.com/all-services/" style="font-family: Rajdhani;font-size:20px;color: #39B4BD;font-weight: bold;">See all services</a></div>
+                                                        </div>
+                                                    </div><div class="st_submenu_level_2">
+                                                        <div class="st_submenu_level_2_header">
+                                                            <span data-block_href="https://kevurugames.com/game-animation/">Animation</span>
+                                                            <div class="show_hide_submenu"></div>
+                                                        </div>
+                                                        <div class="st_submenu_level_2_container">
+                                                            <div class="st_submenu_level_2_container_header">
+                                                                <a href="https://kevurugames.com/game-animation/">Animation</a>
+                                                            </div>
+                                                            <div class="st_submenu_level_2_container_content"><div class="st_submenu_level_2_col"><a href="https://kevurugames.com/game-animation/2d-animation-services/">2D Animation</a><a href="https://kevurugames.com/game-animation/3d-animation-services/">3D Animation</a><a href="https://kevurugames.com/game-animation/motion-graphics-design-services/">Motion Graphic Animation</a></div></div>
+                                                            <div class="all_servicec_link"><a href="https://kevurugames.com/all-services/" style="font-family: Rajdhani;font-size:20px;color: #39B4BD;font-weight: bold;">See all services</a></div>
+                                                        </div>
+                                                    </div><div class="st_submenu_level_2">
+                                                        <div class="st_submenu_level_2_header">
+                                                            <span data-block_href="#">Outstaffing</span>
+                                                            <div class="show_hide_submenu"></div>
+                                                        </div>
+                                                        <div class="st_submenu_level_2_container">
+                                                            <div class="st_submenu_level_2_container_header">
+                                                                <a href="#">Outstaffing</a>
+                                                            </div>
+                                                            <div class="st_submenu_level_2_container_content"><div class="st_submenu_level_2_col"><a href="https://kevurugames.com/hire-game-developers/">Hire Game Developers</a><a href="https://kevurugames.com/unity-developers-for-hire/">Hire Unity Developers</a><a href="https://kevurugames.com/hire-unreal-developer/">Hire Unreal Developers</a><a href="https://kevurugames.com/hire-3d-artists/">Hire 3D Artists</a><a href="https://kevurugames.com/3d-modeler-for-hire/">Hire 3D Modelers</a></div><div class="st_submenu_level_2_col"><a href="https://kevurugames.com/hire-game-designers/">Hire Game Designers</a><a href="https://kevurugames.com/hire-character-designer/">Hire Character Designers</a><a href="https://kevurugames.com/hire-concept-artists/">Hire Concept Artists</a><a href="https://kevurugames.com/hire-2d-artists/">Hire 2D Artists</a><a href="https://kevurugames.com/hire-an-illustrator/">Hire Illustrators</a><a href="https://kevurugames.com/2d-animator-for-hire/">Hire 2D Animators</a></div><div class="st_submenu_level_2_col"><a href="https://kevurugames.com/3d-animator-for-hire/">Hire 3D Animators</a></div></div>
+                                                            <div class="all_servicec_link"><a href="https://kevurugames.com/all-services/" style="font-family: Rajdhani;font-size:20px;color: #39B4BD;font-weight: bold;">See all services</a></div>
+                                                        </div>
+                                                    </div></div>
+                                            </div>
+                                        </li><li class="st_services st_services_no_bg st_services_projects">
+                                    <div class="st_menu_first_level">
+                                        <a href="https://kevurugames.com/our-latest-projects/">Projects</a>
+                                        <div class="show_hide_submenu"></div>
+                                    </div>
+                                
+                                    <div class="st_submenu_container">
+                                        <div class="st_submenu_container_wrapper">
+                                            <div class="st_project_items"><div class="st_project_item">
+                                                <a href="https://kevurugames.com/fortnite/">
+                                                    <img src="img.png" alt="Fortnite">
+                                                    <span>Fortnite<br><i>Epic games</i></span>
+                                                </a>
+                                           </div><div class="st_project_item">
+                                                <a href="https://kevurugames.com/monster-legends/">
+                                                    <img src="img_2.png" alt="Monster Legends">
+                                                    <span>Monster Legends<br><i>SocialPoint</i></span>
+                                                </a>
+                                           </div><div class="st_project_item">
+                                                <a href="https://kevurugames.com/big-farm/">
+                                                    <img src="img_4.png" alt="Big Farm">
+                                                    <span>Big Farm<br><i>Good game</i></span>
+                                                </a>
+                                           </div><div class="st_project_item">
+                                                <a href="https://kevurugames.com/claire-hart/">
+                                                    <img src="img_3.png" alt="Claire Hart">
+                                                    <span>Claire Hart<br><i>Pogo</i></span>
+                                                </a>
+                                           </div><div class="st_project_item">
+                                                <a href="https://kevurugames.com/nanobit/">
+                                                    <img src="img_5.png" alt="Tabou">
+                                                    <span>Tabou<br><i>Nanobit</i></span>
+                                                </a>
+                                           </div>
+											<div class="st_project_item">
+                                                <a href="https://kevurugames.com/our-latest-projects/">
+                                                    <img src="other_img.png" alt="GAME DESIGN PORTFOLIO">
+                                                    <span>Other</span>
+                                                </a>
+                                           </div></div>
+                                        </div>
+                                    </div>
+                                </li><li>
+                                        <a href="https://kevurugames.com/portfolio/">Our portfolio</a>
+                                      </li><li class="st_services st_services_background_type_2 st_services_company">
+                                                <div class="st_menu_first_level">
+                                                    <a href="#" class="link_no_go">Company</a>
+                                                    <div class="show_hide_submenu"></div>
+                                                </div>
+                    
+                                                <div class="st_submenu_container">
+                                                    <div class="st_submenu_container_wrapper">
+                    
+                                                        <div class="st_submenu_level_2">
+                                                            <div class="st_submenu_level_2_header active">
+                                                                <span class="about_us_item" data-block_href="#">About us</span>
+                                                                <div class="show_hide_submenu"></div>
+                                                            </div>
+                                                            <div class="st_submenu_level_2_container">
+                                                                <div class="st_submenu_level_2_container_content">
+                                                                    <div class="company_links"><a href="https://kevurugames.com/about-company/">About Company</a><a href="https://kevurugames.com/our-leadership-team/">Our Leadership Team</a><a href="https://kevurugames.com/we-are-in-media/">We Are In Media</a><a href="https://kevurugames.com/our-process/">Our Process</a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                    
+                                                        <div class="st_submenu_level_2">
+                                                            <div class="st_submenu_level_2_header">
+                                                            <span class="about_us_item" data-block_href="https://kevurugames.com/corporate-social-responsibility/">CSR</span>
+                                                            </div>
+                                                            <div class="st_submenu_level_2_container">
+                                                                <div class="st_submenu_level_2_container_content">
+                                                                    <div class="st_submenu_level_2_col">
+                                                                        <a href="https://kevurugames.com/corporate-social-responsibility/">Our core statements</a>
+                                                                        <div class="about_company_text">Find out about our core statements and how we<br> follow social responsibility principles.<br> Read more about our special projects, join to us.</div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div></div>
+                                                </div>
+                                            </li><li>
+                                        <a href="https://jobs.kevurugames.com/vacancy/" target="_blank" class="outgoing_link">Career</a>
+                                      </li><li>
+                                        <a href="https://kevurugames.com/blog/category/all/">Blog</a>
+                                      </li><li>
+                                        <a href="https://kevurugames.com/contact-us/">Contact us</a>
+                                      </li>                    </ul>
+                
+                
+                
+
+
+                    <div class="header-btn">
+                        <a href="#footer" class="btn">get in touch</a>
+                    </div>
+                </div>
+            </div>
+            <div class="header-hamburger js-hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="header-btn">
+                <a href="#footer" class="btn">get in touch</a>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+            <div class="content">
+                	<main class="main">
+
+		<article class="entry">
+
+			<header class="entry__head">
+				<div class="container entry__head-inner text-white text-center uppercase">
+					<h1 class="mb-25">404</h1>
+
+					<h3>Page not found</h3>
+				</div>
+			</header>
+
+		</article>
+
+	</main>
+                
+                
+                
+                <!--start portfolio code -->
+                
+                
+                
+                                
+                
+                
+                
+                
+                <!--end portfolio code -->
+                
+                
+            </div>
+
+            <footer class="footer" id="footer">
+                <div class="footer-top rocket-lazyload" id="contact-form" style="background-image: url(footer-bg-top.png), url(footer-bg.jpg);" data-bg-multi="url(/wp-content/themes/classy/dist/img/footer-bg-top.png), url(/wp-content/themes/classy/dist/img/footer-bg.jpg)">
+            <div class="lights" data-parallax="{"y" : 100}">
+                <img src="footer-lights.png" alt="Lights">
+            </div>
+            <div class="container">
+                <div class="footer-form footer-form_success js-form-success">
+                    <div class="footer-form__head">
+                        <div class="footer-form__title">
+                            <svg class="d-block mx-auto" xmlns="http://www.w3.org/2000/svg" width="59" height="59" viewBox="0 0 59 59"><path fill-rule="evenodd" clip-rule="evenodd" d="M29.5 56C44.1355 56 56 44.1355 56 29.5C56 14.8645 44.1355 3 29.5 3C14.8645 3 3 14.8645 3 29.5C3 44.1355 14.8645 56 29.5 56ZM29.5 59C45.7924 59 59 45.7924 59 29.5C59 13.2076 45.7924 0 29.5 0C13.2076 0 0 13.2076 0 29.5C0 45.7924 13.2076 59 29.5 59Z" fill="url(#circle-gradient)"/><path d="M24.8171 34.6598L18.6487 28.4416L16 31.1117L24.8171 40L43 21.6701L40.3513 19L24.8171 34.6598Z" fill="url(#check-gradient)"/><defs><lineargradient id="circle-gradient" x1="58.3444" y1="26.409" x2="9.50384" y2="27.6856" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2DCDFF"/><stop offset="1" stop-color="#39B4BD"/></lineargradient><lineargradient id="check-gradient" x1="42.7" y1="28.3998" x2="20.3592" y2="29.1506" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2DCDFF"/><stop offset="1" stop-color="#39B4BD"/></lineargradient></defs></svg>
+                            <h3>Your application is accepted</h3>
+                        </div>
+                        <p class="footer-form__text">
+                            Thank you for choosing us. <br>
+                            Your request is being processed.
+                        </p>
+                    </div>
+                </div>
+			
+
+                <div class="footer-form  js-form">
+                                            <div class="footer-form__head">
+                            <div class="footer-form__title">
+                                <h3><span>Let's Talk</span> About Your Project</h3>
+                                <div class="footer-form__slogan"><span>#</span> Get in Touch</div>
+                            </div>
+                            <p class="footer-form__text">
+                                We are ready to discuss the details of your project and answer any of your
+                                questions: just fill out the form below.
+                            </p>
+                        </div>
+                        <div class="footer-form__wrapper">
+                            <div role="form" class="wpcf7" id="wpcf7-f5-o1" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/wp-content/images/noimage.png#wpcf7-f5-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="5">
+<input type="hidden" name="_wpcf7_version" value="5.0.3">
+<input type="hidden" name="_wpcf7_locale" value="ru_RU">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+</div>
+<input type="hidden" name="ga-client-id" value class="wpcf7-form-control wpcf7-hidden" id="ga-client-id">
+<input type="hidden" name="ga-client-id_2" value class="wpcf7-form-control wpcf7-hidden" id="ga-client-id_2">
+<div class="box-fields">
+<div class="box-fields-row">
+<div class="box-fields-col">
+<div class="box-fields-input">
+                <span class="wpcf7-form-control-wrap full-name"><input type="text" name="full-name" value size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Full name"></span><label>Full name</label>
+            </div>
+<p></p></div>
+<div class="box-fields-col">
+<div class="box-fields-input">
+                <span class="wpcf7-form-control-wrap email"><input type="email" name="email" value size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="E-mail"></span><label>E-mail</label>
+            </div>
+<p></p></div>
+<p></p></div>
+<div class="box-fields-row">
+<div class="box-fields-col box-fields-col_wide">
+<div class="box-fields-input">
+                <span class="wpcf7-form-control-wrap companyname"><input type="text" name="companyname" value size="40" maxlength="30" minlength="3" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Comppany"></span><label>Company</label>
+            </div>
+<p></p></div>
+<p></p></div>
+<div class="st_hidden_field"><span class="wpcf7-form-control-wrap st_user_ip"><input type="text" name="st_user_ip" value size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span></div>
+<div class="box-fields-row">
+<div class="box-fields-col box-fields-col_wide">
+<div class="box-fields-input">
+                <span class="wpcf7-form-control-wrap message"><textarea name="message" cols="40" rows="10" minlength="30" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Message"></textarea></span><label>Message</label>
+            </div>
+<p></p></div>
+<p></p></div>
+<div class="box-fields-row">
+<div class="box-fields-col box-fields-col_wide">
+<div class="box-fields-input box-fields-input_btn"><input type="submit" value="Contact Us" class="wpcf7-form-control wpcf7-submit disabled"></div>
+<p></p></div>
+<p></p></div>
+<div class="box-fields-row box-fields-row_sb">
+<div class="box-fields-col">
+<div class="box-fields-input">
+                <span class="wpcf7-form-control-wrap acceptance-96"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="acceptance-96" value="1" aria-invalid="false" checked="checked"><span class="wpcf7-list-item-label">I agree to the terms of <a href="https://kevurugames.com/privacy-policy/" target="_blank">Privacy Policy</a></span></label></span></span></span><p></p>
+<div class="st_mail_accept">
+<div class="st_mail_accept_checkbox">I want to receive news and our portfolio updates once in a while</div>
+<p><span class="wpcf7-form-control-wrap accept_mailing"><input type="text" name="accept_mailing" value="1" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span>
+</p></div>
+<p></p></div>
+<p></p></div>
+<p></p></div>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
+                            
+                        </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="footer-middle">
+        <div class="container">
+            <div class="footer-middle-wrapper">
+                <div class="footer-info">
+                    <div class="footer-logo">
+                                                    <a href="https://kevurugames.com/" class="footer-logo-link" style="display:block;">
+                                <img class src="../fonts/logo.svg" alt="Kevuru Games Logo">
+                            </a>
+                                            </div>
+                    <div class="footer-contacts">
+                        <div class="footer-contacts__item">
+                            <div class="footer-contacts__title">Address</div>
+                            <!--<div class="footer-contacts__text">237 Kearny Street #9214 San Francisco, CA 94108</div>-->
+                             <div class="footer-contacts__text" style="line-height: 1.3;">Legal Address:<br> 919 N Market Street,<br> suite 950, Wilmington, DE, 19801</div>
+                            <div class="footer-contacts__text">Kozatska Street, 122/4 Kyiv, 03022</div>
+                        </div>
+                        <div class="footer-contacts__item">
+                            <div class="footer-contacts__title">Contact  us</div>
+                            <div class="footer-contacts__text">E-mail:
+                                <a href="mailto:contact@kevurugames.com">contact@kevurugames.com</a>
+                            </div>
+                            <div class="footer-contacts__text">Phone: +380-98-067-14-98</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-menu">
+                    <ul id="menu-menu-header" class="menu-list"><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16"><a href="#">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-486"><a href="https://kevurugames.com/game-art/">Game Art</a>
+	<ul class="sub-menu">
+		<li id="menu-item-576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-576"><a href="https://kevurugames.com/game-art/concept-art/">Concept Art</a></li>
+		<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="https://kevurugames.com/game-art/casual-game-art-services/">Casual Art</a></li>
+		<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href="https://kevurugames.com/game-art/game-environment-design/">Environment Design</a></li>
+		<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="https://kevurugames.com/game-art/character-design-company/">Character Design</a></li>
+		<li id="menu-item-1281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1281"><a href="https://kevurugames.com/game-art/hidden-objects-game-design-services/">Hidden Objects</a></li>
+		<li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a href="https://kevurugames.com/game-art/slots-machines-and-casino-game-design-services/">Slots Games Art</a></li>
+		<li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="https://kevurugames.com/game-art/aaa-game-art-studio-services/">AAA</a></li>
+		<li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="https://kevurugames.com/game-art/2d-art/">2D Art</a></li>
+		<li id="menu-item-270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270"><a href="https://kevurugames.com/game-art/2d-characters-design/">2D Characters Design</a></li>
+		<li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="https://kevurugames.com/game-art/2d-environment-design/">2D Environment Design</a></li>
+		<li id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a href="https://kevurugames.com/game-art/3d-art/">3D Art</a></li>
+		<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://kevurugames.com/game-art/3d-characters-design/">3D Characters Design</a></li>
+		<li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="https://kevurugames.com/game-art/3d-environment-design/">3D Environment Design</a></li>
+		<li id="menu-item-4727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4727"><a href="https://kevurugames.com/game-art/3d-game-modeling/">3D Game Modeling</a></li>
+		<li id="menu-item-4779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4779"><a href="https://kevurugames.com/game-art/3d-sculpting/">3D Sculpting</a></li>
+		<li id="menu-item-4794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4794"><a href="https://kevurugames.com/game-art/ui-ux-design/">UI/UX Design</a></li>
+		<li id="menu-item-5234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5234"><a href="https://kevurugames.com/game-art/illustration-services/">Illustration Services</a></li>
+	</ul>
+</li>
+	<li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-801"><a href="https://kevurugames.com/game-development/">Game Development</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1713"><a href="https://kevurugames.com/game-development/unity-game-development-services/">Unity Development</a></li>
+		<li id="menu-item-4813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4813"><a href="https://kevurugames.com/game-development/unreal-game-development-services/">Unreal Development</a></li>
+		<li id="menu-item-1732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1732"><a href="https://kevurugames.com/game-development/pc-game-development-services/">PC Game Development</a></li>
+		<li id="menu-item-1731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1731"><a href="https://kevurugames.com/game-development/mobile-game-development-services/">Mobile Game Development</a></li>
+		<li id="menu-item-1702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1702"><a href="https://kevurugames.com/game-development/hyper-casual-game-development-services/">Hyper Casual Game Development</a></li>
+		<li id="menu-item-3834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3834"><a href="https://kevurugames.com/game-development/android-game-development-services/">Android Game Development</a></li>
+		<li id="menu-item-3833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3833"><a href="https://kevurugames.com/game-development/ios-game-development-services/">iOS Game Development</a></li>
+		<li id="menu-item-5228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5228"><a href="https://kevurugames.com/game-development/mmorpg-game-development/">MMORPG Game Development</a></li>
+		<li id="menu-item-5231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5231"><a href="https://kevurugames.com/game-development/3d-game-development/">3D Game Development</a></li>
+		<li id="menu-item-4976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4976"><a href="https://kevurugames.com/game-development/game-qa-testing-services/">Game Testing</a></li>
+		<li id="menu-item-5065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5065"><a href="https://kevurugames.com/game-development/game-porting-services/">Game Porting</a></li>
+		<li id="menu-item-6386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6386"><a href="https://kevurugames.com/gamification-services/">Gamification Services</a></li>
+		<li id="menu-item-8034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8034"><a href="https://kevurugames.com/nft-game-development/">NFT Game Development</a></li>
+	</ul>
+</li>
+	<li id="menu-item-504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-504"><a href="https://kevurugames.com/game-animation/">Animation</a>
+	<ul class="sub-menu">
+		<li id="menu-item-675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-675"><a href="https://kevurugames.com/game-animation/2d-animation-services/">2D Animation</a></li>
+		<li id="menu-item-676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-676"><a href="https://kevurugames.com/game-animation/3d-animation-services/">3D Animation</a></li>
+		<li id="menu-item-8012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8012"><a href="https://kevurugames.com/game-animation/motion-graphics-design-services/">Motion Graphics Design</a></li>
+	</ul>
+</li>
+	<li id="menu-item-5222" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5222"><a href="#">Outstaffing</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5218"><a href="https://kevurugames.com/hire-game-developers/">Hire Game Developers</a></li>
+		<li id="menu-item-6321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6321"><a href="https://kevurugames.com/unity-developers-for-hire/">Hire Unity Developers</a></li>
+		<li id="menu-item-6320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6320"><a href="https://kevurugames.com/hire-unreal-developer/">Hire Unreal Developers</a></li>
+		<li id="menu-item-5219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5219"><a href="https://kevurugames.com/hire-3d-artists/">Hire 3D Artists</a></li>
+		<li id="menu-item-6319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6319"><a href="https://kevurugames.com/3d-modeler-for-hire/">Hire 3D Modelers</a></li>
+		<li id="menu-item-5221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5221"><a href="https://kevurugames.com/hire-game-designers/">Hire Game Designers</a></li>
+		<li id="menu-item-5293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5293"><a href="https://kevurugames.com/hire-character-designer/">Hire Character Designers</a></li>
+		<li id="menu-item-5294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5294"><a href="https://kevurugames.com/hire-concept-artists/">Hire Concept Artists</a></li>
+		<li id="menu-item-5295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5295"><a href="https://kevurugames.com/hire-2d-artists/">Hire 2D Artists</a></li>
+		<li id="menu-item-6318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6318"><a href="https://kevurugames.com/hire-an-illustrator/">Hire Illustrators</a></li>
+		<li id="menu-item-6316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6316"><a href="https://kevurugames.com/2d-animator-for-hire/">Hire 2D Animators</a></li>
+		<li id="menu-item-6317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6317"><a href="https://kevurugames.com/3d-animator-for-hire/">Hire 3D Animators</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-5282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5282"><a href="https://kevurugames.com/our-latest-projects/">Projects</a>
+<ul class="sub-menu">
+	<li id="menu-item-5283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5283"><a href="https://kevurugames.com/fortnite/">Fortnite</a></li>
+	<li id="menu-item-5284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5284"><a href="https://kevurugames.com/monster-legends/">Monster Legends</a></li>
+	<li id="menu-item-5285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5285"><a href="https://kevurugames.com/big-farm/">Big Farm</a></li>
+	<li id="menu-item-5286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5286"><a href="https://kevurugames.com/claire-hart/">Claire Hart</a></li>
+	<li id="menu-item-5287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5287"><a href="https://kevurugames.com/nanobit/">Nanobit</a></li>
+</ul>
+</li>
+<li id="menu-item-1030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1030"><a href="https://kevurugames.com/portfolio/">Our portfolio</a></li>
+<li id="menu-item-10781" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10781"><a href="#">Company</a></li>
+<li id="menu-item-8025" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8025"><a href="https://jobs.kevurugames.com/vacancy/">Career</a></li>
+<li id="menu-item-9089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9089"><a href="https://kevurugames.com/blog/category/all/">Blog</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="https://kevurugames.com/contact-us/">Contact us</a></li>
+</ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="footer-bottom-wrapper">
+                <div class="footer-rights">
+                    <div class="footer-rights__text">
+                        &copy; 2022 Kevuru Games. All Rights Reserved.
+                        <i class="divider"></i>
+                        <a class="text-nowrap" href="/terms-and-conditions/">Terms and Conditions</a>
+                    </div>
+                </div>
+                <div class="footer-scl">
+                    <ul class="footer-scl-list">
+                        <li class="footer-scl-list__item">
+                            <a href="https://www.linkedin.com/company/kevuru-games/" class="footer-scl-list__link" target="_blank" rel="nofollow noopener">
+                                <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M15 9.12079V14.6664H11.785V9.4922C11.785 8.1924 11.32 7.30534 10.1563 7.30534C9.26793 7.30534 8.73927 7.90316 8.5067 8.48144C8.42188 8.68818 8.40005 8.97592 8.40005 9.26531V14.6664H5.18398C5.18398 14.6664 5.2273 5.90302 5.18398 4.99507H8.39974V6.36594C8.39322 6.37619 8.38474 6.38725 8.3786 6.39718H8.39974V6.36594C8.82698 5.70789 9.58999 4.76786 11.2979 4.76786C13.4138 4.76783 15 6.15013 15 9.12079ZM1.81984 0.333008C0.71963 0.333008 0 1.05466 0 2.00366C0 2.93198 0.69881 3.67553 1.77716 3.67553H1.79864C2.92016 3.67553 3.61764 2.93211 3.61764 2.00366C3.59651 1.05466 2.92016 0.333008 1.81984 0.333008ZM0.191006 14.6664H3.40585V4.99507H0.191006V14.6664Z" fill="white"/>
+                                </svg>
+                                <span class="sr-only">LinkedIn</span>
+                            </a>
+                        </li>
+                        <li class="footer-scl-list__item">
+                            <a href="https://www.facebook.com/KevuruGames/" class="footer-scl-list__link" target="_blank" rel="nofollow noopener">
+                                <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clipPathFacebook)">
+                                        <path d="M8.65613 4.91495V3.6225C8.65613 3.42848 8.66506 3.2782 8.6832 3.17204C8.70127 3.06572 8.7424 2.96115 8.80622 2.85792C8.86995 2.75476 8.97315 2.68354 9.11565 2.64407C9.25835 2.60454 9.44797 2.58484 9.68471 2.58484H10.9771V0H8.91098C7.71548 0 6.85685 0.283637 6.33497 0.850912C5.81316 1.41831 5.55228 2.25408 5.55228 3.35854V4.91492H4.00476V7.49995H5.55219V14.9999H8.6561V7.49998H10.7221L10.9952 4.91495H8.65613Z" fill="white"/>
+                                    </g>
+                                    <defs>
+                                        <clippath id="clipPathFacebook">
+                                            <rect width="15" height="15" fill="white"/>
+                                        </clippath>
+                                    </defs>
+                                </svg>
+                                <span class="sr-only">Facebook</span>
+                            </a>
+                        </li>
+                        <li class="footer-scl-list__item">
+                            <a href="https://www.behance.net/kevuru-games" class="footer-scl-list__link" target="_blank" rel="nofollow noopener">
+                                <svg width="21" height="15" viewBox="0 0 21 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M18.892 2.54932H13.4428V1.16773H18.892V2.54932ZM10.5627 8.21185C10.9137 8.76816 11.0899 9.44432 11.0899 10.2349C11.0899 11.0554 10.8917 11.7894 10.4887 12.4383C10.2324 12.868 9.91344 13.2309 9.53108 13.5224C9.1 13.8601 8.59018 14.093 8.00429 14.2176C7.41573 14.3422 6.77979 14.4028 6.09447 14.4028H0V0.596436H6.53422C8.18112 0.622991 9.3489 1.10985 10.0382 2.06722C10.452 2.6535 10.6568 3.35689 10.6568 4.17467C10.6568 5.0197 10.4486 5.69449 10.0316 6.20722C9.79933 6.49525 9.45634 6.75741 9.00124 6.993C9.69056 7.25107 10.2131 7.65486 10.5627 8.21185ZM3.12031 6.03971H5.9837C6.57226 6.03971 7.04805 5.92464 7.41373 5.69721C7.78008 5.4691 7.96292 5.06396 7.96292 4.48245C7.96292 3.84102 7.72135 3.41477 7.23622 3.20981C6.81916 3.06682 6.28599 2.99328 5.63937 2.99328H3.12031V6.03971ZM8.23851 10.0374C8.23851 9.32039 7.95091 8.82536 7.37769 8.55844C7.05739 8.40796 6.60496 8.32965 6.02507 8.3242H3.12031V12.0032H5.97903C6.56692 12.0032 7.02135 11.9256 7.34967 11.7608C7.94156 11.4612 8.23851 10.8885 8.23851 10.0374ZM20.9132 7.79172C20.98 8.24385 21.01 8.8989 20.9967 9.7555H13.9406C13.98 10.7496 14.3156 11.4442 14.9542 11.8418C15.3379 12.0911 15.8044 12.2129 16.3509 12.2129C16.9268 12.2129 17.3959 12.0645 17.7569 11.7594C17.9538 11.5974 18.1273 11.3686 18.2767 11.0813H20.8639C20.7951 11.6675 20.4848 12.262 19.9243 12.8687C19.0575 13.8288 17.8417 14.3129 16.2802 14.3129C14.9889 14.3129 13.8525 13.9043 12.8656 13.0947C11.8813 12.2831 11.3875 10.9628 11.3875 9.13382C11.3875 7.41858 11.8319 6.1044 12.7221 5.19129C13.615 4.27545 14.7674 3.81991 16.1888 3.81991C17.0309 3.81991 17.7903 3.97312 18.4683 4.28158C19.1436 4.5914 19.7014 5.07757 20.1405 5.74624C20.5376 6.33523 20.7938 7.01615 20.9132 7.79172ZM18.3662 8.04979C18.3201 7.36274 18.0946 6.84252 17.6888 6.48708C17.2865 6.1296 16.7853 5.9512 16.1874 5.9512C15.5348 5.9512 15.0337 6.14185 14.6746 6.51772C14.315 6.89427 14.0914 7.4036 13.9993 8.04979H18.3662Z" fill="white"/>
+                                </svg>
+                                <span class="sr-only">Behance</span>
+                            </a>
+                        </li>
+                        <li class="footer-scl-list__item">
+                            <a href="https://www.artstation.com/kevuru_games" class="footer-scl-list__link" target="_blank" rel="nofollow noopener">
+                                <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <g clip-path="url(#clipPathArtStation)">
+                                        <path d="M9.8625 11.7188L11.58 15.067H4.9725C3.95054 15.0592 2.94934 14.7442 2.07428 14.155C1.19922 13.5657 0.482655 12.7241 0 11.7188H0H9.8625ZM6.2625 0C7.28745 0.000417482 8.29476 0.297568 9.18604 0.862419C10.0773 1.42727 10.8221 2.2405 11.3475 3.22266L14.1675 8.50446C14.6887 9.48467 14.9706 10.6002 14.9851 11.7399C14.9996 12.8797 14.7461 14.0037 14.25 15H14.025L6.2625 0ZM8.64 9.31641H1.2825L5.0325 2.31864L8.64 9.31641Z" fill="white"/>
+                                    </g>
+                                    <defs>
+                                        <clippath id="clipPathArtStation">
+                                            <rect width="15" height="15" fill="white"/>
+                                        </clippath>
+                                    </defs>
+                                </svg>
+                                <span class="sr-only">ArtStation</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="lets_support_ukraine">
+    <svg width="33" height="20" viewBox="0 0 33 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect width="33" height="10" transform="matrix(-1 0 0 1 33 10)" fill="#FFD500"/>
+        <rect width="33" height="10" transform="matrix(-1 0 0 1 33 0)" fill="#005BBB"/>
+    </svg>
+    <div class="lets_support_ukraine_text">Let’s Support Ukraine. </div>
+    <a href="https://kevurugames.com/blog/stand-with-ukraine-against-the-russian-invasion/" class="btn">Details</a>
+    <div class="lets_support_ukraine_close"><img src="../fonts/close-icon.svg" alt="Close"></div>
+</div>
+    
+    <style>
+        .lets_support_ukraine {
+            background: rgba(0,0,0,0.8);
+            height: 78px;
+            width:100%;
+            max-width: 648px;
+            display:none;
+            align-items: center;
+            padding: 0 30px;
+            position: fixed;
+            bottom: 0px;
+            right: 0;
+            z-index: 6;
+        }
+        .lets_support_ukraine_text {
+            margin: 0 30px 0 10px;
+            font-weight: 600;
+            font-size: 16px;
+            color: #FFFFFF;
+        }
+        .lets_support_ukraine_close {
+            position: absolute;
+            right: 20px;
+            top: 50%;
+            margin-top: -7px;
+            cursor: pointer;
+        }
+        .lets_support_ukraine .btn {
+            padding: 10px 14px;
+        }
+        @media  screen and (max-width: 700px) {
+            .lets_support_ukraine {
+                max-width: 100%;
+                padding: 0 15px;
+            }
+            .lets_support_ukraine .btn {
+                text-transform: inherit;
+            }
+            .lets_support_ukraine_close {
+                right: 15px;
+            }
+        }
+    </style>
+        
+
+<script>
+function set_cookie ( name, value, exp_y, exp_m, exp_d, path, domain, secure )
+{
+  var cookie_string = name + "=" + escape ( value );
+ 
+  if ( exp_y )
+  {
+    var expires = new Date ( exp_y, exp_m, exp_d );
+    cookie_string += "; expires=" + expires.toGMTString();
+  }
+ 
+  if ( path )
+        cookie_string += "; path=" + escape ( path );
+ 
+  if ( domain )
+        cookie_string += "; domain=" + escape ( domain );
+  
+  if ( secure )
+        cookie_string += "; secure";
+  
+  document.cookie = cookie_string;
+}
+function get_cookie ( cookie_name )
+{
+  var results = document.cookie.match ( '(^|;) ?' + cookie_name + '=([^;]*)(;|$)' );
+  if ( results )
+    return ( unescape ( results[2] ) );
+  else
+    return null;
+}
+let cookie_notice_accepted = get_cookie ( "cookie_notice_accepted" );
+let cookies_support_ukraine = get_cookie ( "cookies_support_ukraine" );
+
+function go_cookie_blocks() {
+    if (!cookie_notice_accepted) {
+        let cookie_block_height = $("#cookie-notice").outerHeight();
+        jQuery(".lets_support_ukraine").css("bottom", cookie_block_height + 5);
+    }
+    
+    if (cookies_support_ukraine != "clicked") {
+        jQuery(".lets_support_ukraine").fadeIn().css("display","flex");
+    }
+}
+
+setTimeout(go_cookie_blocks, 2000);
+
+
+jQuery(".lets_support_ukraine_close,.lets_support_ukraine a").click(function() {
+    set_cookie( "cookies_support_ukraine", "clicked", 2023, 12, 31 );
+    jQuery(".lets_support_ukraine").fadeOut();
+});
+</script>
+ 
+ 
+    <style>
+     .tools-2d__list {
+      border-top:unset!important;
+     }
+     .tools-2d__list  .tools-2d__item {border-top: 1px solid #e6e6e6;}
+    </style>
+<script>
+    jQuery(document).ready(function(){
+        jQuery('a[href]').each(function(){
+            if(jQuery(this).attr("href").indexOf("http") >= 0){
+                if(jQuery(this).attr("href").indexOf(location.host) == -1) {
+                    jQuery(this).attr('target','_blank');
+                }
+            }
+        });
+        jQuery(".st_hidden_field input").val("194.29.53.224");
+
+		document.addEventListener( 'wpcf7spam', function( event ) {
+            $(".footer-form_success").fadeIn();
+            $("div.footer-form.js-form").hide();
+        }, false );
+    });
+function get_cookie ( cookie_name )
+{
+  var results = document.cookie.match ( '(^|;) ?' + cookie_name + '=([^;]*)(;|$)' );
+  if ( results )
+    return ( unescape ( results[2] ) );
+  else
+    return null;
+}
+function setClientId() {
+ let cookie_ga = get_cookie ( "_ga" );
+ let user_ga = cookie_ga.slice(6);
+ jQuery("#ga-client-id_2").val(cookie_ga);
+ console.log(cookie_ga);
+}
+
+setTimeout(setClientId, 2000);
+setTimeout(setClientId, 3000);
+</script>
+<style>
+    .st_hidden_field {display: none!important;}
+	.wpcf7-spam-blocked {display:none!important;}
+
+    div.st_mail_accept_checkbox {
+        position: relative;
+        cursor: pointer;
+        font-size: 14px;
+        line-height: 100%;
+        color: hsla(0,0%,78.4%,.3);
+        height: 17px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding-left: 25px;
+    }
+    div.st_mail_accept_checkbox:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 17px;
+        height: 17px;
+        background: transparent;
+        border: 1px solid hsla(0,0%,78.4%,.3);
+    }
+    div.st_mail_accept_checkbox:after {
+        content: "";
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        width: 7px;
+        height: 7px;
+        background: #39b4bd;
+        transition: .2s;
+        opacity: 1;
+    }
+    div.st_mail_accept_checkbox.no_active:after {
+        opacity: 0;
+    }
+    span.accept_mailing {
+        display: none!important;
+    }
+
+    .outgoing_link {
+     position: relative;
+    }
+    .outgoing_link:after {
+        content: '';
+        position: absolute;
+        height: 12px;
+        width: 12px;
+        background: url(../fonts/icon-careers.svg) no-repeat;
+        top: -5px;
+    right: -14px;
+    }
+    @media  screen and (max-width: 1200px){
+     .outgoing_link:after {
+      right: unset;
+      left:70px;
+     }
+    }
+</style>
+    
+        
+
+        </div>
+
+        <script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/kevurugames.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script>
+wpcf7.cached = 0;
+</script>
+<script src="../js/scripts.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/kevurugames.com\/wp-admin\/admin-ajax.php","nonce":"0def842a50","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"};
+/* ]]> */
+</script>
+<script src="../js/front.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"other","leadinPluginVersion":"8.0.294"};
+/* ]]> */
+</script>
+<script src="https://js.hs-scripts.com/19906031.js?integration=WordPress"></script>
+<script src="../js/addtoany.min.js"></script>
+<script src="../js/wp-embed.min.js"></script>
+
+		<!-- Cookie Notice plugin v1.3.2 by Digital Factory https://dfactory.eu/ -->
+		<div id="cookie-notice" role="banner" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,0.8);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button bootstrap" aria-label="Ok">Ok</a><a href="https://kevurugames.com/terms-and-conditions/" target="_blank" id="cn-more-info" class="cn-more-info cn-button bootstrap" aria-label="Privacy policy">Privacy policy</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Ok"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin --><script>window.lazyLoadOptions = {
+                elements_selector: "iframe[data-lazy-src]",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_loaded: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }};
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            var lazyLoadInstance = e.detail.instance;
+
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    var image_count = 0;
+                    var iframe_count = 0;
+                    var rocketlazy_count = 0;
+
+                    mutations.forEach(function(mutation) {
+                        for (i = 0; i < mutation.addedNodes.length; i++) {
+                            if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
+                                return;
+                            }
+
+                           if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
+                                return;
+                            }
+
+                            images = mutation.addedNodes[i].getElementsByTagName('img');
+                            is_image = mutation.addedNodes[i].tagName == "IMG";
+                            iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
+                            is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
+                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
+
+                            image_count += images.length;
+			                iframe_count += iframes.length;
+			                rocketlazy_count += rocket_lazy.length;
+
+                            if(is_image){
+                                image_count += 1;
+                            }
+
+                            if(is_iframe){
+                                iframe_count += 1;
+                            }
+                        }
+                    } );
+
+                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count > 0){
+                        lazyLoadInstance.update();
+                    }
+                } );
+
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+
+                observer.observe(b, config);
+            }
+        }, false);</script><script data-no-minify="1" async src="../js/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360">',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+    
+
+       
+   
+         <script src="../js/index.js"></script>
+            <style>
+    @media  screen and (min-width: 574px) {
+
+        .slide-1 {
+           background-image: url("slide_1.webp");        }
+        
+        .slide-2 {
+            background-image: url("slide_2.webp");        }
+        
+        .slide-3 {
+            background-image: url("slide_3.webp");        }
+        
+        .slide-4 {
+            background-image: url("slide_4.webp");        }
+      }
+        
+        @media  screen and (max-width: 574px) {
+              .ok_home-slide {background-color: #ccc!important;}
+            .slide-1 {
+            background-image: url("slide_1_md.webp");            }
+        
+            .slide-2 {
+                background-image: url("slide_2_md.webp");            }
+        
+            .slide-3 {
+                background-image: url("slide_3_md.webp");            }
+        
+            .slide-4 {
+                background-image: url("slide_4_md.webp");            }
+        }
+        </style>
+            
+            
+                    
+                    
+            
+			    
+    
+            
+        
+	
+    	<script src="../js/st_scripts_new.js" type="text/javascript" charset="utf-8"></script>
+                
+        
+                
+        
+                <style>
+				.st_video_item {
+					position: relative;
+				}
+				.st_video_item iframe {
+					position: absolute;
+					width:100%;
+					height: 100%;
+					left:0;
+					top:0;
+				}
+				</style>
+                    
+                    
+
+        
+        
+        
+        <style>
+            .game-project_has_ul_list .game-project__info-item.work-type {display: flex;}
+            .game-project_has_ul_list .game-project__info-item ul {margin-bottom: 0px;}
+        </style>
+        
+    </body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (Page is 404) 
+
+Served from: kevurugames.com @ 2022-09-11 04:53:33 by W3 Total Cache
+-->
