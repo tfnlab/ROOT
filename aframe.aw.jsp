@@ -24,7 +24,7 @@
           position="10 10 10"></a-entity>
 
       <a-assets>
-        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.aw.glb.jsp?lt=<%=request.getParameter("lt")%>&elv=<%=request.getParameter("elv")%>&wr=<%=request.getParameter("wr")%>&sed=<%=request.getParameter("sed")%>" ></a-asset-item>
+        <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.aw.glb.jsp?nft=<%=request.getParameter("nft")%>" ></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials position="0 0 0" rotation="0 1 0" ></a-entity>    <!-- "button" -->
       <a-entity id="rig" position="0 6 37.5" rotation="-15 0 0" spectator="true" >
