@@ -18,7 +18,7 @@
   </script>
 </head>
 <body >
-    <a-scene  background="color: #000000" capture-screenshot vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
+    <a-scene  background="color: #ffffff" capture-screenshot vr-mode-ui="enabled: false" light="defaultLightsEnabled: false">
         <a-entity light="type: ambient; intensity: 1;" position="10 10 100"></a-entity>
         <a-entity light="type: point; intensity: 0.8; distance: 10000; decay: 2"
           position="10 10 100"></a-entity>
@@ -27,7 +27,7 @@
         <a-asset-item id="cityModel" src="https://play.tfnlab.com/download.aw.glb.jsp?nft=<%=request.getParameter("nft")%>" ></a-asset-item>
       </a-assets>
       <a-entity gltf-model="#cityModel" modify-materials position="0 0 0" rotation="0 0 0" ></a-entity>    <!-- "button" -->
-      <a-entity id="rig" position="0 30 15" rotation="-35 0 0" spectator="true" >
+      <a-entity id="rig" position="0 15 15" rotation="-35 0 0" spectator="true" >
         <a-entity id="camera" camera="zoom: 1" look-controls  wasd-controls="acceleration: 1000" ></a-entity>
       </a-entity>
     </a-scene>
