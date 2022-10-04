@@ -1,16 +1,3 @@
-/* eslint-disable */
-
-export function get(element) {
-  return getComputedStyle(element);
-}
-
-export function set(element, obj) {
-  for (const key in obj) {
-    let val = obj[key];
-    if (typeof val === 'number') {
-      val = `${val}px`;
-    }
-    element.style[key] = val;
-  }
-  return element;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bed5c4dae4e6bd8925b03a4fd2a04a6a143b860e10039ef40b7ccf2a9054aef
+size 298
